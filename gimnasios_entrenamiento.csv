@@ -1,0 +1,1013 @@
+ID_Socio,Sede,Plan,Disciplina_Principal,Visitas_Mes,Minutos_Promedio_Sesion,Gasto_Suplementos,Estado_Membresia
+SOC-10001,Medellín Poblado,Básico,Spinning,1,60.0,25000.0,Congelada
+SOC-10002,Manizales Centro,Platino,Funcional,5,60.0,55000.0,Congelada
+SOC-10003,Armenia Norte,VIP Total,Yoga y Pilates,14,60.0,25000.0,Activa
+SOC-10004,Armenia Norte,Básico,Spinning,2,,25000.0,Congelada
+SOC-10005,Chinchiná,VIP Total,Yoga y Pilates,26,,95000.0,Activa
+SOC-10006,Armenia Norte,Básico,Yoga y Pilates,25,45.0,0.0,Activa
+SOC-10007,Medellín Poblado,Estudiantil,Spinning,18,60.0,0.0,Activa
+SOC-10008,Armenia Norte,VIP Total,Yoga y Pilates,12,35.0,0.0,Activa
+SOC-10009,Pereira Circunvalar,Platino,Crossfit,21,,,Activa
+SOC-10010,Manizales Centro,Platino,Funcional,4,60.0,0.0,Activa
+SOC-10011,Armenia Norte,Básico,Spinning,7,45.0,95000.0,Activa
+SOC-10012,Manizales Centro,Básico,Yoga y Pilates,21,60.0,,Activa
+SOC-10013,Armenia Norte,Estudiantil,Yoga y Pilates,9,75.0,25000.0,Activa
+SOC-10014,Pereira Circunvalar,Estudiantil,Funcional,9,60.0,0.0,Activa
+SOC-10015,Manizales Centro,VIP Total,Funcional,27,45.0,0.0,Activa
+SOC-10016,Manizales Centro,Estudiantil,Musculación,6,60.0,0.0,Congelada
+SOC-10017,Pereira Circunvalar,Platino,Spinning,6,60.0,25000.0,Activa
+SOC-10018,Armenia Norte,Estudiantil,Musculación,22,60.0,140000.0,Activa
+SOC-10019,Armenia Norte,Estudiantil,Crossfit,10,75.0,25000.0,Activa
+SOC-10020,Chinchiná,VIP Total,Yoga y Pilates,24,35.0,25000.0,Activa
+SOC-10021,Manizales Centro,Platino,Spinning,1,45.0,0.0,Activa
+SOC-10022,Chinchiná,Básico,Funcional,1,45.0,25000.0,Congelada
+SOC-10023,Chinchiná,VIP Total,Yoga y Pilates,7,60.0,95000.0,Activa
+SOC-10024,Medellín Poblado,Básico,Funcional,11,35.0,0.0,Congelada
+SOC-10025,Medellín Poblado,Platino,Musculación,6,45.0,55000.0,Activa
+SOC-10026,Medellín Poblado,Básico,Spinning,15,45.0,220000.0,Activa
+SOC-10027,Manizales Centro,Estudiantil,Yoga y Pilates,7,,0.0,Activa
+SOC-10028,Armenia Norte,Básico,Funcional,6,75.0,0.0,Activa
+SOC-10029,Armenia Norte,VIP Total,Yoga y Pilates,17,60.0,25000.0,Vencida
+SOC-10030,Armenia Norte,Platino,Spinning,3,60.0,220000.0,Vencida
+SOC-10031,Chinchiná,Estudiantil,Crossfit,10,75.0,,Congelada
+SOC-10032,Pereira Circunvalar,Platino,Crossfit,9,110.0,25000.0,Activa
+SOC-10033,Pereira Circunvalar,Estudiantil,Yoga y Pilates,24,,220000.0,Activa
+SOC-10034,Pereira Circunvalar,Estudiantil,Musculación,26,,95000.0,Congelada
+SOC-10035,Manizales Centro,VIP Total,Spinning,18,45.0,0.0,Activa
+SOC-10036,Pereira Circunvalar,Platino,Crossfit,18,60.0,,Activa
+SOC-10037,Manizales Centro,Básico,Funcional,19,45.0,25000.0,Vencida
+SOC-10038,Chinchiná,Platino,Yoga y Pilates,18,60.0,0.0,Vencida
+SOC-10039,Pereira Circunvalar,Platino,Yoga y Pilates,15,90.0,55000.0,Activa
+SOC-10040,Chinchiná,Básico,Crossfit,27,35.0,0.0,Activa
+SOC-10041,Pereira Circunvalar,Estudiantil,Spinning,21,35.0,55000.0,Activa
+SOC-10042,Chinchiná,Básico,Yoga y Pilates,25,75.0,0.0,Vencida
+SOC-10043,Manizales Centro,Platino,Funcional,8,60.0,55000.0,Vencida
+SOC-10044,Manizales Centro,Platino,Musculación,5,45.0,25000.0,Activa
+SOC-10045,Manizales Centro,Platino,Funcional,23,45.0,0.0,Activa
+SOC-10046,Manizales Centro,Estudiantil,Funcional,19,,55000.0,Activa
+SOC-10047,Chinchiná,Básico,Musculación,16,45.0,0.0,Activa
+SOC-10048,Manizales Centro,Estudiantil,Yoga y Pilates,26,90.0,95000.0,Vencida
+SOC-10049,Chinchiná,VIP Total,Spinning,12,75.0,25000.0,Activa
+SOC-10050,Armenia Norte,VIP Total,Funcional,6,60.0,0.0,Activa
+SOC-10051,Armenia Norte,Estudiantil,Crossfit,21,75.0,95000.0,Congelada
+SOC-10052,Chinchiná,Básico,Crossfit,27,60.0,55000.0,Activa
+SOC-10053,Medellín Poblado,Básico,Funcional,17,90.0,55000.0,Vencida
+SOC-10054,Pereira Circunvalar,VIP Total,Funcional,15,60.0,55000.0,Activa
+SOC-10055,Chinchiná,VIP Total,Crossfit,8,60.0,95000.0,Activa
+SOC-10056,Manizales Centro,Básico,Musculación,12,45.0,55000.0,Activa
+SOC-10057,Medellín Poblado,Platino,Yoga y Pilates,10,60.0,55000.0,Congelada
+SOC-10058,Pereira Circunvalar,Estudiantil,Musculación,1,60.0,55000.0,Activa
+SOC-10059,Armenia Norte,VIP Total,Funcional,13,45.0,95000.0,Activa
+SOC-10060,Medellín Poblado,Platino,Crossfit,12,35.0,55000.0,Activa
+SOC-10061,Manizales Centro,Básico,Spinning,21,45.0,95000.0,Activa
+SOC-10062,Pereira Circunvalar,Platino,Crossfit,13,60.0,0.0,Activa
+SOC-10063,Pereira Circunvalar,Platino,Yoga y Pilates,16,75.0,95000.0,Congelada
+SOC-10064,Pereira Circunvalar,Básico,Funcional,26,,95000.0,Vencida
+SOC-10065,Chinchiná,Platino,Funcional,25,75.0,55000.0,Vencida
+SOC-10066,Pereira Circunvalar,Platino,Spinning,25,,0.0,Activa
+SOC-10067,Manizales Centro,VIP Total,Musculación,24,35.0,95000.0,Activa
+SOC-10068,Chinchiná,Platino,Yoga y Pilates,20,60.0,25000.0,Activa
+SOC-10069,Pereira Circunvalar,Estudiantil,Funcional,16,60.0,0.0,Activa
+SOC-10070,Armenia Norte,Básico,Yoga y Pilates,5,45.0,0.0,Activa
+SOC-10071,Medellín Poblado,Estudiantil,Spinning,12,90.0,55000.0,Congelada
+SOC-10072,Chinchiná,Platino,Spinning,11,75.0,25000.0,Activa
+SOC-10073,Chinchiná,Básico,Spinning,28,60.0,95000.0,Congelada
+SOC-10074,Chinchiná,Básico,Musculación,23,35.0,95000.0,Activa
+SOC-10075,Pereira Circunvalar,Estudiantil,Spinning,2,75.0,,Congelada
+SOC-10076,Medellín Poblado,Platino,Yoga y Pilates,20,45.0,,Activa
+SOC-10077,Chinchiná,Básico,Musculación,20,60.0,0.0,Congelada
+SOC-10078,Chinchiná,Básico,Funcional,14,90.0,95000.0,Activa
+SOC-10079,Medellín Poblado,Platino,Yoga y Pilates,13,60.0,0.0,Activa
+SOC-10080,Armenia Norte,Platino,Crossfit,5,60.0,25000.0,Activa
+SOC-10081,Manizales Centro,VIP Total,Spinning,6,45.0,140000.0,Activa
+SOC-10082,Manizales Centro,Básico,Yoga y Pilates,14,60.0,0.0,Activa
+SOC-10083,Manizales Centro,Estudiantil,Spinning,15,110.0,95000.0,Activa
+SOC-10084,Armenia Norte,Platino,Musculación,12,75.0,0.0,Activa
+SOC-10085,Chinchiná,Estudiantil,Funcional,6,75.0,0.0,Congelada
+SOC-10086,Pereira Circunvalar,VIP Total,Yoga y Pilates,8,45.0,55000.0,Vencida
+SOC-10087,Chinchiná,Platino,Funcional,27,60.0,,Activa
+SOC-10088,Pereira Circunvalar,Básico,Crossfit,12,60.0,55000.0,Activa
+SOC-10089,Medellín Poblado,Platino,Spinning,6,60.0,0.0,Activa
+SOC-10090,Pereira Circunvalar,Básico,Yoga y Pilates,5,75.0,25000.0,Vencida
+SOC-10091,Manizales Centro,Platino,Musculación,8,90.0,140000.0,Activa
+SOC-10092,Pereira Circunvalar,Básico,Funcional,12,75.0,0.0,Activa
+SOC-10093,Armenia Norte,VIP Total,Yoga y Pilates,27,60.0,0.0,Activa
+SOC-10094,Armenia Norte,Platino,Crossfit,3,60.0,220000.0,Activa
+SOC-10095,Chinchiná,Estudiantil,Funcional,20,45.0,220000.0,Activa
+SOC-10096,Armenia Norte,Básico,Yoga y Pilates,6,45.0,25000.0,Activa
+SOC-10097,Manizales Centro,Platino,Yoga y Pilates,3,75.0,95000.0,Activa
+SOC-10098,Pereira Circunvalar,Estudiantil,Musculación,17,90.0,55000.0,Activa
+SOC-10099,Manizales Centro,VIP Total,Spinning,8,45.0,55000.0,Congelada
+SOC-10100,Medellín Poblado,Estudiantil,Musculación,16,45.0,0.0,Activa
+SOC-10101,Chinchiná,Básico,Funcional,2,45.0,55000.0,Activa
+SOC-10102,Chinchiná,Básico,Spinning,28,45.0,140000.0,Congelada
+SOC-10103,Pereira Circunvalar,Estudiantil,Crossfit,12,90.0,140000.0,Activa
+SOC-10104,Chinchiná,VIP Total,Spinning,24,35.0,25000.0,Activa
+SOC-10105,Medellín Poblado,Básico,Crossfit,8,110.0,0.0,Activa
+SOC-10106,Manizales Centro,Básico,Spinning,6,60.0,25000.0,Congelada
+SOC-10107,Chinchiná,Platino,Funcional,3,45.0,0.0,Activa
+SOC-10108,Armenia Norte,VIP Total,Musculación,4,60.0,140000.0,Activa
+SOC-10109,Chinchiná,Estudiantil,Yoga y Pilates,13,45.0,0.0,Activa
+SOC-10110,Medellín Poblado,Estudiantil,Crossfit,3,,0.0,Activa
+SOC-10111,Manizales Centro,Básico,Musculación,20,60.0,140000.0,Activa
+SOC-10112,Manizales Centro,Básico,Crossfit,6,45.0,,Congelada
+SOC-10113,Medellín Poblado,Platino,Funcional,15,75.0,25000.0,Vencida
+SOC-10114,Armenia Norte,VIP Total,Musculación,21,75.0,95000.0,Activa
+SOC-10115,Manizales Centro,Básico,Funcional,5,60.0,0.0,Activa
+SOC-10116,Medellín Poblado,Platino,Funcional,17,45.0,55000.0,Congelada
+SOC-10117,Chinchiná,VIP Total,Crossfit,18,90.0,95000.0,Activa
+SOC-10118,Manizales Centro,Básico,Spinning,23,60.0,0.0,Activa
+SOC-10119,Armenia Norte,Estudiantil,Musculación,24,45.0,,Activa
+SOC-10120,Chinchiná,Básico,Funcional,9,45.0,140000.0,Activa
+SOC-10121,Chinchiná,VIP Total,Musculación,6,,,Activa
+SOC-10122,Armenia Norte,Básico,Yoga y Pilates,24,90.0,25000.0,Activa
+SOC-10123,Armenia Norte,Estudiantil,Funcional,15,60.0,25000.0,Vencida
+SOC-10124,Armenia Norte,Básico,Funcional,17,45.0,55000.0,Vencida
+SOC-10125,Armenia Norte,Básico,Musculación,17,35.0,55000.0,Activa
+SOC-10126,Armenia Norte,Platino,Musculación,6,60.0,0.0,Activa
+SOC-10127,Pereira Circunvalar,Básico,Crossfit,10,60.0,95000.0,Congelada
+SOC-10128,Pereira Circunvalar,Estudiantil,Spinning,4,35.0,95000.0,Activa
+SOC-10129,Armenia Norte,Platino,Crossfit,9,90.0,95000.0,Activa
+SOC-10130,Armenia Norte,VIP Total,Funcional,10,60.0,,Activa
+SOC-10131,Pereira Circunvalar,VIP Total,Funcional,21,35.0,55000.0,Activa
+SOC-10132,Manizales Centro,Estudiantil,Yoga y Pilates,27,45.0,0.0,Activa
+SOC-10133,Manizales Centro,Básico,Spinning,3,,55000.0,Activa
+SOC-10134,Medellín Poblado,VIP Total,Yoga y Pilates,9,45.0,55000.0,Vencida
+SOC-10135,Chinchiná,Platino,Funcional,13,60.0,55000.0,Activa
+SOC-10136,Manizales Centro,Básico,Crossfit,15,35.0,0.0,Activa
+SOC-10137,Manizales Centro,Estudiantil,Funcional,13,35.0,,Activa
+SOC-10138,Pereira Circunvalar,Estudiantil,Crossfit,5,110.0,0.0,Activa
+SOC-10139,Pereira Circunvalar,Platino,Yoga y Pilates,17,35.0,55000.0,Activa
+SOC-10140,Manizales Centro,VIP Total,Musculación,23,,220000.0,Activa
+SOC-10141,Manizales Centro,Platino,Yoga y Pilates,23,35.0,55000.0,Activa
+SOC-10142,Manizales Centro,Platino,Spinning,7,75.0,220000.0,Activa
+SOC-10143,Manizales Centro,VIP Total,Yoga y Pilates,20,45.0,140000.0,Vencida
+SOC-10144,Manizales Centro,Platino,Funcional,27,90.0,55000.0,Activa
+SOC-10145,Chinchiná,Básico,Musculación,17,35.0,55000.0,Activa
+SOC-10146,Chinchiná,Básico,Musculación,26,60.0,140000.0,Activa
+SOC-10147,Chinchiná,Platino,Yoga y Pilates,28,35.0,220000.0,Activa
+SOC-10148,Armenia Norte,Platino,Spinning,8,75.0,55000.0,Congelada
+SOC-10149,Armenia Norte,Estudiantil,Spinning,7,75.0,220000.0,Activa
+SOC-10150,Manizales Centro,Platino,Spinning,22,45.0,95000.0,Activa
+SOC-10151,Chinchiná,Platino,Crossfit,4,60.0,25000.0,Vencida
+SOC-10152,Chinchiná,Platino,Musculación,14,60.0,220000.0,Congelada
+SOC-10153,Medellín Poblado,Básico,Yoga y Pilates,15,75.0,0.0,Congelada
+SOC-10154,Pereira Circunvalar,Platino,Spinning,11,75.0,25000.0,Activa
+SOC-10155,Armenia Norte,Platino,Crossfit,5,60.0,0.0,Congelada
+SOC-10156,Manizales Centro,VIP Total,Musculación,1,75.0,55000.0,Activa
+SOC-10157,Medellín Poblado,Estudiantil,Yoga y Pilates,9,75.0,140000.0,Activa
+SOC-10158,Manizales Centro,Básico,Musculación,17,75.0,95000.0,Activa
+SOC-10159,Pereira Circunvalar,Básico,Yoga y Pilates,16,90.0,,Activa
+SOC-10160,Pereira Circunvalar,Básico,Funcional,21,75.0,0.0,Vencida
+SOC-10161,Pereira Circunvalar,Estudiantil,Musculación,5,110.0,25000.0,Activa
+SOC-10162,Medellín Poblado,Básico,Funcional,27,60.0,55000.0,Congelada
+SOC-10163,Manizales Centro,Platino,Yoga y Pilates,28,90.0,0.0,Activa
+SOC-10164,Manizales Centro,Básico,Spinning,19,75.0,140000.0,Activa
+SOC-10165,Chinchiná,Platino,Crossfit,24,45.0,25000.0,Congelada
+SOC-10166,Manizales Centro,Básico,Crossfit,4,75.0,0.0,Activa
+SOC-10167,Armenia Norte,Platino,Spinning,3,75.0,95000.0,Vencida
+SOC-10168,Chinchiná,VIP Total,Spinning,1,75.0,55000.0,Activa
+SOC-10169,Medellín Poblado,Platino,Musculación,7,60.0,55000.0,Activa
+SOC-10170,Armenia Norte,Estudiantil,Funcional,8,110.0,25000.0,Activa
+SOC-10171,Armenia Norte,Básico,Crossfit,18,60.0,95000.0,Activa
+SOC-10172,Armenia Norte,Básico,Musculación,20,60.0,0.0,Activa
+SOC-10173,Manizales Centro,Platino,Crossfit,1,35.0,0.0,Activa
+SOC-10174,Manizales Centro,Básico,Musculación,25,60.0,25000.0,Vencida
+SOC-10175,Pereira Circunvalar,Estudiantil,Yoga y Pilates,16,,25000.0,Activa
+SOC-10176,Pereira Circunvalar,VIP Total,Musculación,10,45.0,0.0,Activa
+SOC-10177,Chinchiná,Platino,Crossfit,15,45.0,0.0,Activa
+SOC-10178,Pereira Circunvalar,Básico,Yoga y Pilates,15,60.0,25000.0,Activa
+SOC-10179,Armenia Norte,Platino,Crossfit,27,45.0,140000.0,Vencida
+SOC-10180,Armenia Norte,VIP Total,Crossfit,6,110.0,0.0,Activa
+SOC-10181,Manizales Centro,VIP Total,Funcional,10,60.0,25000.0,Activa
+SOC-10182,Armenia Norte,Estudiantil,Yoga y Pilates,17,75.0,95000.0,Activa
+SOC-10183,Armenia Norte,VIP Total,Yoga y Pilates,28,90.0,0.0,Activa
+SOC-10184,Manizales Centro,Básico,Funcional,22,60.0,220000.0,Vencida
+SOC-10185,Chinchiná,Estudiantil,Spinning,24,90.0,25000.0,Activa
+SOC-10186,Manizales Centro,Básico,Crossfit,9,45.0,25000.0,Activa
+SOC-10187,Armenia Norte,Platino,Yoga y Pilates,15,60.0,25000.0,Activa
+SOC-10188,Manizales Centro,Platino,Musculación,25,45.0,220000.0,Congelada
+SOC-10189,Medellín Poblado,Básico,Musculación,12,45.0,55000.0,Activa
+SOC-10190,Manizales Centro,Estudiantil,Crossfit,23,45.0,0.0,Activa
+SOC-10191,Chinchiná,Básico,Musculación,9,75.0,55000.0,Congelada
+SOC-10192,Armenia Norte,Platino,Funcional,7,75.0,140000.0,Activa
+SOC-10193,Pereira Circunvalar,Estudiantil,Funcional,28,110.0,25000.0,Activa
+SOC-10194,Medellín Poblado,Estudiantil,Yoga y Pilates,4,60.0,25000.0,Activa
+SOC-10195,Armenia Norte,Básico,Yoga y Pilates,27,45.0,220000.0,Activa
+SOC-10196,Pereira Circunvalar,Básico,Funcional,13,45.0,95000.0,Activa
+SOC-10197,Pereira Circunvalar,Básico,Yoga y Pilates,5,60.0,25000.0,Activa
+SOC-10198,Manizales Centro,Básico,Yoga y Pilates,1,35.0,25000.0,Activa
+SOC-10199,Manizales Centro,Básico,Musculación,12,60.0,55000.0,Activa
+SOC-10200,Chinchiná,Básico,Spinning,20,60.0,25000.0,Congelada
+SOC-10201,Medellín Poblado,Básico,Yoga y Pilates,22,45.0,0.0,Congelada
+SOC-10202,Armenia Norte,Básico,Funcional,19,35.0,0.0,Activa
+SOC-10203,Pereira Circunvalar,Básico,Spinning,1,60.0,0.0,Activa
+SOC-10204,Medellín Poblado,VIP Total,Spinning,21,45.0,55000.0,Activa
+SOC-10205,Armenia Norte,Platino,Funcional,3,60.0,,Activa
+SOC-10206,Chinchiná,Básico,Funcional,3,90.0,0.0,Activa
+SOC-10207,Manizales Centro,Platino,Yoga y Pilates,18,60.0,55000.0,Vencida
+SOC-10208,Chinchiná,Básico,Yoga y Pilates,15,60.0,55000.0,Activa
+SOC-10209,Chinchiná,Platino,Crossfit,11,45.0,55000.0,Activa
+SOC-10210,Armenia Norte,Básico,Yoga y Pilates,22,45.0,25000.0,Congelada
+SOC-10211,Medellín Poblado,VIP Total,Musculación,23,45.0,25000.0,Activa
+SOC-10212,Armenia Norte,Platino,Spinning,15,60.0,55000.0,Vencida
+SOC-10213,Armenia Norte,Básico,Musculación,16,75.0,55000.0,Activa
+SOC-10214,Pereira Circunvalar,Básico,Funcional,6,45.0,55000.0,Activa
+SOC-10215,Medellín Poblado,Básico,Crossfit,27,75.0,0.0,Activa
+SOC-10216,Armenia Norte,Estudiantil,Funcional,14,60.0,0.0,Activa
+SOC-10217,Chinchiná,Básico,Yoga y Pilates,15,60.0,95000.0,Vencida
+SOC-10218,Medellín Poblado,Platino,Musculación,9,45.0,220000.0,Congelada
+SOC-10219,Chinchiná,Estudiantil,Funcional,27,90.0,55000.0,Activa
+SOC-10220,Armenia Norte,VIP Total,Yoga y Pilates,5,45.0,25000.0,Activa
+SOC-10221,Armenia Norte,Estudiantil,Crossfit,17,45.0,0.0,Congelada
+SOC-10222,Armenia Norte,Platino,Yoga y Pilates,14,90.0,95000.0,Activa
+SOC-10223,Chinchiná,Estudiantil,Spinning,1,60.0,0.0,Activa
+SOC-10224,Medellín Poblado,Platino,Crossfit,20,75.0,140000.0,Vencida
+SOC-10225,Manizales Centro,Básico,Musculación,19,60.0,0.0,Activa
+SOC-10226,Medellín Poblado,Platino,Spinning,12,90.0,55000.0,Vencida
+SOC-10227,Armenia Norte,Platino,Yoga y Pilates,9,45.0,25000.0,Activa
+SOC-10228,Armenia Norte,Estudiantil,Crossfit,18,60.0,55000.0,Activa
+SOC-10229,Manizales Centro,Estudiantil,Funcional,23,45.0,25000.0,Activa
+SOC-10230,Chinchiná,Platino,Spinning,26,45.0,0.0,Activa
+SOC-10231,Manizales Centro,Estudiantil,Crossfit,14,45.0,140000.0,Activa
+SOC-10232,Chinchiná,Estudiantil,Musculación,5,110.0,140000.0,Vencida
+SOC-10233,Medellín Poblado,Básico,Yoga y Pilates,5,60.0,25000.0,Vencida
+SOC-10234,Pereira Circunvalar,Básico,Funcional,19,45.0,25000.0,Activa
+SOC-10235,Armenia Norte,Básico,Musculación,18,35.0,0.0,Activa
+SOC-10236,Pereira Circunvalar,Platino,Yoga y Pilates,23,60.0,220000.0,Congelada
+SOC-10237,Armenia Norte,Básico,Yoga y Pilates,5,90.0,95000.0,Activa
+SOC-10238,Armenia Norte,Básico,Musculación,13,45.0,140000.0,Congelada
+SOC-10239,Pereira Circunvalar,VIP Total,Funcional,21,45.0,0.0,Vencida
+SOC-10240,Medellín Poblado,Platino,Spinning,2,45.0,95000.0,Activa
+SOC-10241,Medellín Poblado,Platino,Musculación,18,60.0,25000.0,Activa
+SOC-10242,Manizales Centro,Básico,Spinning,9,45.0,140000.0,Activa
+SOC-10243,Manizales Centro,Estudiantil,Funcional,27,45.0,140000.0,Activa
+SOC-10244,Medellín Poblado,Platino,Crossfit,15,75.0,55000.0,Activa
+SOC-10245,Pereira Circunvalar,Estudiantil,Crossfit,9,45.0,95000.0,Activa
+SOC-10246,Armenia Norte,Platino,Crossfit,23,60.0,25000.0,Activa
+SOC-10247,Manizales Centro,Estudiantil,Musculación,21,60.0,,Activa
+SOC-10248,Chinchiná,Platino,Funcional,14,60.0,0.0,Activa
+SOC-10249,Armenia Norte,Básico,Musculación,19,90.0,140000.0,Activa
+SOC-10250,Armenia Norte,Estudiantil,Spinning,22,45.0,25000.0,Activa
+SOC-10251,Medellín Poblado,Platino,Crossfit,12,75.0,0.0,Activa
+SOC-10252,Medellín Poblado,Básico,Yoga y Pilates,23,90.0,55000.0,Vencida
+SOC-10253,Manizales Centro,Básico,Spinning,14,110.0,95000.0,Activa
+SOC-10254,Chinchiná,Platino,Yoga y Pilates,14,60.0,25000.0,Activa
+SOC-10255,Medellín Poblado,Básico,Funcional,20,45.0,25000.0,Congelada
+SOC-10256,Medellín Poblado,Básico,Spinning,15,75.0,25000.0,Activa
+SOC-10257,Armenia Norte,Básico,Spinning,20,60.0,140000.0,Activa
+SOC-10258,Armenia Norte,Platino,Spinning,3,90.0,0.0,Activa
+SOC-10259,Chinchiná,Básico,Funcional,20,45.0,,Activa
+SOC-10260,Armenia Norte,VIP Total,Musculación,6,60.0,25000.0,Congelada
+SOC-10261,Medellín Poblado,Estudiantil,Funcional,10,110.0,0.0,Activa
+SOC-10262,Chinchiná,Platino,Spinning,26,75.0,0.0,Congelada
+SOC-10263,Armenia Norte,Platino,Spinning,24,,0.0,Activa
+SOC-10264,Pereira Circunvalar,Platino,Crossfit,15,35.0,25000.0,Activa
+SOC-10265,Manizales Centro,Básico,Crossfit,28,45.0,55000.0,Activa
+SOC-10266,Pereira Circunvalar,VIP Total,Funcional,25,60.0,0.0,Congelada
+SOC-10267,Medellín Poblado,Básico,Musculación,13,110.0,,Vencida
+SOC-10268,Pereira Circunvalar,Básico,Crossfit,16,60.0,55000.0,Activa
+SOC-10269,Chinchiná,Platino,Musculación,2,75.0,25000.0,Activa
+SOC-10270,Pereira Circunvalar,VIP Total,Funcional,2,60.0,55000.0,Activa
+SOC-10271,Manizales Centro,VIP Total,Yoga y Pilates,25,45.0,55000.0,Vencida
+SOC-10272,Armenia Norte,Platino,Crossfit,25,75.0,140000.0,Activa
+SOC-10273,Manizales Centro,VIP Total,Musculación,22,45.0,55000.0,Activa
+SOC-10274,Manizales Centro,Platino,Musculación,24,75.0,95000.0,Activa
+SOC-10275,Pereira Circunvalar,Básico,Yoga y Pilates,27,75.0,25000.0,Activa
+SOC-10276,Medellín Poblado,Básico,Spinning,3,,55000.0,Activa
+SOC-10277,Manizales Centro,VIP Total,Funcional,23,75.0,140000.0,Activa
+SOC-10278,Medellín Poblado,Básico,Funcional,28,35.0,95000.0,Activa
+SOC-10279,Chinchiná,VIP Total,Musculación,21,,95000.0,Activa
+SOC-10280,Chinchiná,Platino,Spinning,9,45.0,95000.0,Activa
+SOC-10281,Armenia Norte,Estudiantil,Musculación,8,45.0,55000.0,Vencida
+SOC-10282,Manizales Centro,Platino,Yoga y Pilates,2,90.0,55000.0,Activa
+SOC-10283,Medellín Poblado,Estudiantil,Spinning,4,75.0,25000.0,Activa
+SOC-10284,Manizales Centro,Básico,Musculación,19,45.0,0.0,Activa
+SOC-10285,Medellín Poblado,VIP Total,Crossfit,8,,0.0,Activa
+SOC-10286,Armenia Norte,Estudiantil,Musculación,7,60.0,0.0,Activa
+SOC-10287,Armenia Norte,Básico,Crossfit,7,45.0,95000.0,Activa
+SOC-10288,Chinchiná,Platino,Spinning,16,75.0,25000.0,Congelada
+SOC-10289,Medellín Poblado,Básico,Yoga y Pilates,9,110.0,95000.0,Congelada
+SOC-10290,Pereira Circunvalar,Básico,Spinning,3,60.0,0.0,Vencida
+SOC-10291,Medellín Poblado,Estudiantil,Funcional,4,90.0,0.0,Congelada
+SOC-10292,Medellín Poblado,Básico,Crossfit,20,60.0,140000.0,Congelada
+SOC-10293,Pereira Circunvalar,VIP Total,Spinning,1,60.0,0.0,Activa
+SOC-10294,Armenia Norte,Platino,Yoga y Pilates,2,45.0,25000.0,Activa
+SOC-10295,Chinchiná,Estudiantil,Yoga y Pilates,4,60.0,25000.0,Activa
+SOC-10296,Chinchiná,Platino,Funcional,26,60.0,25000.0,Activa
+SOC-10297,Chinchiná,Básico,Yoga y Pilates,16,90.0,0.0,Activa
+SOC-10298,Medellín Poblado,Platino,Musculación,22,75.0,0.0,Activa
+SOC-10299,Manizales Centro,Estudiantil,Funcional,28,60.0,140000.0,Activa
+SOC-10300,Chinchiná,Platino,Spinning,17,,95000.0,Vencida
+SOC-10301,Manizales Centro,Básico,Spinning,12,60.0,,Activa
+SOC-10302,Armenia Norte,Estudiantil,Crossfit,12,75.0,0.0,Activa
+SOC-10303,Pereira Circunvalar,Platino,Yoga y Pilates,23,60.0,55000.0,Activa
+SOC-10304,Chinchiná,Básico,Musculación,15,45.0,55000.0,Activa
+SOC-10305,Pereira Circunvalar,Básico,Yoga y Pilates,22,75.0,140000.0,Activa
+SOC-10306,Medellín Poblado,Platino,Spinning,24,60.0,95000.0,Activa
+SOC-10307,Pereira Circunvalar,Estudiantil,Funcional,12,45.0,55000.0,Vencida
+SOC-10308,Medellín Poblado,Básico,Musculación,27,45.0,25000.0,Activa
+SOC-10309,Chinchiná,Básico,Funcional,16,35.0,220000.0,Activa
+SOC-10310,Manizales Centro,Básico,Spinning,2,75.0,0.0,Activa
+SOC-10311,Pereira Circunvalar,Básico,Musculación,26,35.0,55000.0,Activa
+SOC-10312,Pereira Circunvalar,Estudiantil,Yoga y Pilates,2,90.0,0.0,Activa
+SOC-10313,Chinchiná,Platino,Yoga y Pilates,6,60.0,140000.0,Activa
+SOC-10314,Pereira Circunvalar,VIP Total,Yoga y Pilates,16,60.0,55000.0,Activa
+SOC-10315,Medellín Poblado,Estudiantil,Yoga y Pilates,17,75.0,25000.0,Congelada
+SOC-10316,Chinchiná,Platino,Funcional,19,,25000.0,Activa
+SOC-10317,Chinchiná,Básico,Funcional,3,45.0,95000.0,Activa
+SOC-10318,Manizales Centro,Platino,Funcional,26,60.0,25000.0,Congelada
+SOC-10319,Chinchiná,Básico,Spinning,9,60.0,95000.0,Activa
+SOC-10320,Pereira Circunvalar,Platino,Musculación,26,45.0,0.0,Activa
+SOC-10321,Chinchiná,Estudiantil,Spinning,4,75.0,55000.0,Activa
+SOC-10322,Chinchiná,Básico,Musculación,7,60.0,25000.0,Activa
+SOC-10323,Pereira Circunvalar,Platino,Yoga y Pilates,14,60.0,0.0,Activa
+SOC-10324,Manizales Centro,Básico,Crossfit,27,75.0,0.0,Activa
+SOC-10325,Medellín Poblado,Platino,Crossfit,2,45.0,55000.0,Congelada
+SOC-10326,Chinchiná,Platino,Spinning,9,60.0,25000.0,Activa
+SOC-10327,Manizales Centro,Básico,Musculación,7,60.0,55000.0,Vencida
+SOC-10328,Manizales Centro,Platino,Spinning,3,75.0,25000.0,Activa
+SOC-10329,Chinchiná,Básico,Yoga y Pilates,13,60.0,55000.0,Activa
+SOC-10330,Chinchiná,Estudiantil,Yoga y Pilates,10,75.0,25000.0,Activa
+SOC-10331,Chinchiná,Platino,Yoga y Pilates,6,90.0,0.0,Activa
+SOC-10332,Medellín Poblado,Estudiantil,Musculación,27,110.0,0.0,Activa
+SOC-10333,Medellín Poblado,Estudiantil,Spinning,9,45.0,95000.0,Activa
+SOC-10334,Chinchiná,Estudiantil,Crossfit,3,45.0,25000.0,Activa
+SOC-10335,Medellín Poblado,Estudiantil,Spinning,14,60.0,0.0,Activa
+SOC-10336,Armenia Norte,Platino,Funcional,19,75.0,55000.0,Activa
+SOC-10337,Medellín Poblado,Básico,Yoga y Pilates,22,45.0,,Activa
+SOC-10338,Manizales Centro,VIP Total,Spinning,22,45.0,55000.0,Activa
+SOC-10339,Pereira Circunvalar,Platino,Crossfit,7,60.0,0.0,Activa
+SOC-10340,Medellín Poblado,Básico,Funcional,5,45.0,55000.0,Activa
+SOC-10341,Manizales Centro,Estudiantil,Funcional,19,45.0,0.0,Activa
+SOC-10342,Medellín Poblado,Básico,Spinning,8,60.0,25000.0,Activa
+SOC-10343,Armenia Norte,Básico,Funcional,27,60.0,25000.0,Activa
+SOC-10344,Pereira Circunvalar,Básico,Musculación,25,75.0,140000.0,Activa
+SOC-10345,Armenia Norte,Básico,Spinning,26,45.0,25000.0,Activa
+SOC-10346,Medellín Poblado,Platino,Spinning,23,45.0,55000.0,Activa
+SOC-10347,Chinchiná,Platino,Musculación,12,60.0,55000.0,Activa
+SOC-10348,Chinchiná,Estudiantil,Spinning,1,45.0,0.0,Activa
+SOC-10349,Medellín Poblado,Básico,Crossfit,15,60.0,25000.0,Activa
+SOC-10350,Chinchiná,Básico,Crossfit,12,60.0,220000.0,Activa
+SOC-10351,Armenia Norte,Platino,Funcional,17,75.0,,Activa
+SOC-10352,Chinchiná,Platino,Crossfit,11,90.0,140000.0,Vencida
+SOC-10353,Chinchiná,Básico,Musculación,4,60.0,140000.0,Activa
+SOC-10354,Manizales Centro,VIP Total,Yoga y Pilates,19,60.0,25000.0,Congelada
+SOC-10355,Armenia Norte,Platino,Yoga y Pilates,24,75.0,95000.0,Activa
+SOC-10356,Pereira Circunvalar,VIP Total,Musculación,12,35.0,95000.0,Activa
+SOC-10357,Manizales Centro,Básico,Yoga y Pilates,2,60.0,0.0,Activa
+SOC-10358,Pereira Circunvalar,Platino,Funcional,17,45.0,0.0,Activa
+SOC-10359,Pereira Circunvalar,Platino,Musculación,5,45.0,55000.0,Congelada
+SOC-10360,Manizales Centro,Básico,Musculación,27,60.0,95000.0,Activa
+SOC-10361,Manizales Centro,Estudiantil,Musculación,12,75.0,0.0,Congelada
+SOC-10362,Medellín Poblado,Básico,Funcional,20,60.0,55000.0,Activa
+SOC-10363,Armenia Norte,Básico,Musculación,2,60.0,25000.0,Congelada
+SOC-10364,Chinchiná,Platino,Yoga y Pilates,14,35.0,95000.0,Activa
+SOC-10365,Medellín Poblado,Platino,Musculación,11,75.0,95000.0,Vencida
+SOC-10366,Medellín Poblado,Platino,Yoga y Pilates,5,45.0,0.0,Activa
+SOC-10367,Armenia Norte,VIP Total,Crossfit,23,60.0,0.0,Congelada
+SOC-10368,Manizales Centro,Platino,Funcional,16,45.0,25000.0,Activa
+SOC-10369,Medellín Poblado,Platino,Musculación,5,60.0,55000.0,Activa
+SOC-10370,Pereira Circunvalar,Estudiantil,Yoga y Pilates,14,75.0,25000.0,Activa
+SOC-10371,Manizales Centro,Básico,Spinning,27,60.0,0.0,Activa
+SOC-10372,Armenia Norte,Platino,Yoga y Pilates,4,90.0,55000.0,Congelada
+SOC-10373,Manizales Centro,Platino,Funcional,23,75.0,55000.0,Activa
+SOC-10374,Chinchiná,Platino,Crossfit,13,90.0,0.0,Activa
+SOC-10375,Pereira Circunvalar,Estudiantil,Musculación,3,75.0,0.0,Congelada
+SOC-10376,Armenia Norte,Estudiantil,Musculación,15,75.0,25000.0,Congelada
+SOC-10377,Armenia Norte,Básico,Crossfit,4,90.0,25000.0,Activa
+SOC-10378,Chinchiná,Básico,Yoga y Pilates,23,110.0,25000.0,Vencida
+SOC-10379,Medellín Poblado,Platino,Musculación,23,35.0,25000.0,Vencida
+SOC-10380,Chinchiná,Platino,Funcional,21,90.0,,Vencida
+SOC-10381,Chinchiná,Estudiantil,Crossfit,5,60.0,55000.0,Activa
+SOC-10382,Chinchiná,Estudiantil,Yoga y Pilates,17,60.0,25000.0,Vencida
+SOC-10383,Armenia Norte,VIP Total,Musculación,12,45.0,0.0,Activa
+SOC-10384,Manizales Centro,VIP Total,Musculación,8,60.0,0.0,Congelada
+SOC-10385,Manizales Centro,Básico,Yoga y Pilates,25,45.0,55000.0,Activa
+SOC-10386,Armenia Norte,Básico,Musculación,3,,0.0,Activa
+SOC-10387,Chinchiná,Estudiantil,Spinning,18,75.0,,Activa
+SOC-10388,Medellín Poblado,Básico,Musculación,1,90.0,0.0,Activa
+SOC-10389,Pereira Circunvalar,Básico,Funcional,15,75.0,0.0,Activa
+SOC-10390,Manizales Centro,Platino,Spinning,26,,0.0,Activa
+SOC-10391,Manizales Centro,Platino,Crossfit,1,60.0,95000.0,Activa
+SOC-10392,Medellín Poblado,Platino,Funcional,17,60.0,95000.0,Activa
+SOC-10393,Medellín Poblado,Platino,Crossfit,27,60.0,0.0,Activa
+SOC-10394,Pereira Circunvalar,VIP Total,Spinning,16,35.0,0.0,Congelada
+SOC-10395,Manizales Centro,Básico,Musculación,23,75.0,25000.0,Vencida
+SOC-10396,Armenia Norte,Básico,Yoga y Pilates,26,60.0,95000.0,Activa
+SOC-10397,Medellín Poblado,Estudiantil,Funcional,20,45.0,25000.0,Activa
+SOC-10398,Armenia Norte,Básico,Crossfit,18,60.0,25000.0,Activa
+SOC-10399,Chinchiná,VIP Total,Funcional,7,45.0,,Activa
+SOC-10400,Manizales Centro,VIP Total,Yoga y Pilates,2,60.0,55000.0,Activa
+SOC-10401,Chinchiná,Platino,Yoga y Pilates,2,,25000.0,Vencida
+SOC-10402,Medellín Poblado,Básico,Spinning,12,45.0,25000.0,Activa
+SOC-10403,Armenia Norte,Estudiantil,Funcional,15,,25000.0,Activa
+SOC-10404,Chinchiná,Básico,Funcional,27,45.0,95000.0,Activa
+SOC-10405,Manizales Centro,Estudiantil,Crossfit,3,35.0,25000.0,Activa
+SOC-10406,Pereira Circunvalar,Estudiantil,Funcional,9,60.0,0.0,Activa
+SOC-10407,Medellín Poblado,Básico,Musculación,8,75.0,0.0,Activa
+SOC-10408,Chinchiná,VIP Total,Musculación,25,75.0,25000.0,Activa
+SOC-10409,Medellín Poblado,Básico,Funcional,25,60.0,95000.0,Activa
+SOC-10410,Pereira Circunvalar,Platino,Yoga y Pilates,4,45.0,55000.0,Activa
+SOC-10411,Medellín Poblado,Básico,Crossfit,4,75.0,95000.0,Activa
+SOC-10412,Armenia Norte,VIP Total,Yoga y Pilates,4,75.0,0.0,Activa
+SOC-10413,Medellín Poblado,VIP Total,Spinning,9,110.0,55000.0,Congelada
+SOC-10414,Pereira Circunvalar,Básico,Yoga y Pilates,10,110.0,0.0,Activa
+SOC-10415,Armenia Norte,Platino,Spinning,1,45.0,55000.0,Activa
+SOC-10416,Medellín Poblado,Platino,Musculación,3,45.0,95000.0,Activa
+SOC-10417,Armenia Norte,Estudiantil,Funcional,14,45.0,,Activa
+SOC-10418,Chinchiná,Básico,Yoga y Pilates,26,60.0,25000.0,Activa
+SOC-10419,Pereira Circunvalar,Estudiantil,Spinning,3,75.0,95000.0,Activa
+SOC-10420,Chinchiná,Básico,Musculación,7,60.0,25000.0,Congelada
+SOC-10421,Manizales Centro,Platino,Musculación,15,35.0,55000.0,Activa
+SOC-10422,Manizales Centro,Estudiantil,Crossfit,28,90.0,0.0,Congelada
+SOC-10423,Chinchiná,Platino,Funcional,7,60.0,25000.0,Activa
+SOC-10424,Chinchiná,Básico,Yoga y Pilates,11,110.0,25000.0,Activa
+SOC-10425,Pereira Circunvalar,Estudiantil,Musculación,28,45.0,0.0,Activa
+SOC-10426,Armenia Norte,Básico,Crossfit,11,45.0,0.0,Activa
+SOC-10427,Armenia Norte,Básico,Crossfit,21,75.0,25000.0,Activa
+SOC-10428,Manizales Centro,Estudiantil,Musculación,8,60.0,25000.0,Activa
+SOC-10429,Manizales Centro,Estudiantil,Funcional,27,45.0,0.0,Vencida
+SOC-10430,Pereira Circunvalar,Platino,Crossfit,17,75.0,55000.0,Activa
+SOC-10431,Medellín Poblado,Básico,Spinning,27,60.0,55000.0,Activa
+SOC-10432,Chinchiná,Estudiantil,Crossfit,4,60.0,0.0,Activa
+SOC-10433,Pereira Circunvalar,Estudiantil,Crossfit,11,45.0,95000.0,Vencida
+SOC-10434,Manizales Centro,Platino,Spinning,24,60.0,25000.0,Activa
+SOC-10435,Armenia Norte,Básico,Spinning,4,45.0,55000.0,Activa
+SOC-10436,Manizales Centro,Básico,Crossfit,13,60.0,0.0,Activa
+SOC-10437,Armenia Norte,Platino,Funcional,25,60.0,0.0,Activa
+SOC-10438,Armenia Norte,Platino,Funcional,17,35.0,0.0,Activa
+SOC-10439,Chinchiná,Básico,Yoga y Pilates,23,75.0,95000.0,Activa
+SOC-10440,Medellín Poblado,Básico,Crossfit,20,90.0,0.0,Activa
+SOC-10441,Manizales Centro,Estudiantil,Yoga y Pilates,3,60.0,,Activa
+SOC-10442,Pereira Circunvalar,Estudiantil,Funcional,14,35.0,0.0,Activa
+SOC-10443,Pereira Circunvalar,Básico,Musculación,3,45.0,0.0,Activa
+SOC-10444,Manizales Centro,Básico,Spinning,2,60.0,55000.0,Activa
+SOC-10445,Armenia Norte,VIP Total,Yoga y Pilates,22,45.0,55000.0,Activa
+SOC-10446,Medellín Poblado,Estudiantil,Funcional,18,,0.0,Activa
+SOC-10447,Armenia Norte,Básico,Musculación,18,45.0,25000.0,Activa
+SOC-10448,Medellín Poblado,Estudiantil,Funcional,11,60.0,25000.0,Congelada
+SOC-10449,Pereira Circunvalar,Estudiantil,Yoga y Pilates,9,,95000.0,Activa
+SOC-10450,Armenia Norte,Platino,Crossfit,27,45.0,95000.0,Activa
+SOC-10451,Chinchiná,Básico,Crossfit,16,45.0,0.0,Congelada
+SOC-10452,Medellín Poblado,Platino,Funcional,25,60.0,0.0,Congelada
+SOC-10453,Armenia Norte,Platino,Funcional,22,60.0,25000.0,Activa
+SOC-10454,Armenia Norte,Estudiantil,Crossfit,21,60.0,,Congelada
+SOC-10455,Pereira Circunvalar,Básico,Yoga y Pilates,9,110.0,25000.0,Activa
+SOC-10456,Chinchiná,VIP Total,Crossfit,13,45.0,25000.0,Activa
+SOC-10457,Armenia Norte,Platino,Funcional,20,45.0,25000.0,Vencida
+SOC-10458,Armenia Norte,VIP Total,Yoga y Pilates,11,60.0,25000.0,Vencida
+SOC-10459,Pereira Circunvalar,Platino,Crossfit,10,45.0,95000.0,Activa
+SOC-10460,Armenia Norte,Platino,Yoga y Pilates,3,45.0,95000.0,Activa
+SOC-10461,Pereira Circunvalar,Básico,Spinning,28,60.0,55000.0,Activa
+SOC-10462,Armenia Norte,Básico,Crossfit,16,60.0,55000.0,Activa
+SOC-10463,Manizales Centro,Platino,Yoga y Pilates,19,45.0,55000.0,Congelada
+SOC-10464,Chinchiná,Básico,Funcional,9,60.0,55000.0,Vencida
+SOC-10465,Medellín Poblado,Estudiantil,Musculación,1,60.0,55000.0,Congelada
+SOC-10466,Medellín Poblado,Básico,Spinning,2,75.0,55000.0,Congelada
+SOC-10467,Medellín Poblado,Estudiantil,Spinning,14,75.0,0.0,Vencida
+SOC-10468,Pereira Circunvalar,Platino,Crossfit,8,35.0,0.0,Congelada
+SOC-10469,Medellín Poblado,Platino,Spinning,2,75.0,,Activa
+SOC-10470,Chinchiná,VIP Total,Musculación,23,60.0,55000.0,Activa
+SOC-10471,Pereira Circunvalar,Básico,Spinning,22,45.0,0.0,Activa
+SOC-10472,Armenia Norte,Básico,Musculación,22,35.0,0.0,Activa
+SOC-10473,Manizales Centro,Platino,Yoga y Pilates,19,45.0,140000.0,Activa
+SOC-10474,Medellín Poblado,Platino,Musculación,20,60.0,25000.0,Activa
+SOC-10475,Manizales Centro,Estudiantil,Crossfit,28,45.0,0.0,Activa
+SOC-10476,Chinchiná,VIP Total,Crossfit,24,60.0,0.0,Activa
+SOC-10477,Armenia Norte,VIP Total,Yoga y Pilates,26,45.0,0.0,Congelada
+SOC-10478,Armenia Norte,VIP Total,Spinning,20,60.0,25000.0,Activa
+SOC-10479,Manizales Centro,Básico,Spinning,7,90.0,55000.0,Vencida
+SOC-10480,Chinchiná,Básico,Yoga y Pilates,17,60.0,0.0,Congelada
+SOC-10481,Chinchiná,Básico,Yoga y Pilates,28,45.0,25000.0,Activa
+SOC-10482,Manizales Centro,Básico,Yoga y Pilates,26,45.0,55000.0,Activa
+SOC-10483,Armenia Norte,Básico,Yoga y Pilates,19,45.0,25000.0,Activa
+SOC-10484,Pereira Circunvalar,Estudiantil,Funcional,23,60.0,0.0,Vencida
+SOC-10485,Armenia Norte,Básico,Funcional,3,110.0,,Vencida
+SOC-10486,Medellín Poblado,Platino,Funcional,2,110.0,0.0,Congelada
+SOC-10487,Medellín Poblado,VIP Total,Yoga y Pilates,16,,55000.0,Activa
+SOC-10488,Medellín Poblado,Básico,Yoga y Pilates,28,60.0,25000.0,Activa
+SOC-10489,Chinchiná,Básico,Crossfit,27,60.0,25000.0,Activa
+SOC-10490,Medellín Poblado,Platino,Spinning,20,75.0,25000.0,Activa
+SOC-10491,Pereira Circunvalar,Básico,Spinning,3,75.0,0.0,Activa
+SOC-10492,Pereira Circunvalar,Platino,Yoga y Pilates,20,75.0,0.0,Activa
+SOC-10493,Manizales Centro,Platino,Funcional,12,35.0,,Activa
+SOC-10494,Manizales Centro,Platino,Yoga y Pilates,4,45.0,,Activa
+SOC-10495,Chinchiná,VIP Total,Crossfit,17,45.0,0.0,Congelada
+SOC-10496,Manizales Centro,Platino,Crossfit,9,,0.0,Activa
+SOC-10497,Chinchiná,Platino,Funcional,4,75.0,55000.0,Activa
+SOC-10498,Manizales Centro,VIP Total,Spinning,16,60.0,55000.0,Activa
+SOC-10499,Armenia Norte,VIP Total,Yoga y Pilates,4,60.0,25000.0,Activa
+SOC-10500,Armenia Norte,VIP Total,Yoga y Pilates,24,90.0,55000.0,Vencida
+SOC-10501,Chinchiná,Básico,Funcional,15,60.0,55000.0,Activa
+SOC-10502,Chinchiná,Básico,Yoga y Pilates,18,35.0,,Congelada
+SOC-10503,Chinchiná,Platino,Yoga y Pilates,8,60.0,220000.0,Activa
+SOC-10504,Manizales Centro,Platino,Yoga y Pilates,8,60.0,0.0,Congelada
+SOC-10505,Pereira Circunvalar,Estudiantil,Crossfit,18,60.0,0.0,Activa
+SOC-10506,Manizales Centro,Estudiantil,Yoga y Pilates,14,60.0,55000.0,Activa
+SOC-10507,Manizales Centro,Platino,Crossfit,14,110.0,0.0,Activa
+SOC-10508,Armenia Norte,Básico,Yoga y Pilates,1,45.0,140000.0,Activa
+SOC-10509,Chinchiná,Platino,Crossfit,21,60.0,95000.0,Activa
+SOC-10510,Chinchiná,Platino,Spinning,18,35.0,25000.0,Activa
+SOC-10511,Medellín Poblado,Básico,Funcional,1,60.0,0.0,Activa
+SOC-10512,Manizales Centro,Estudiantil,Yoga y Pilates,16,45.0,0.0,Activa
+SOC-10513,Pereira Circunvalar,Platino,Spinning,20,60.0,0.0,Activa
+SOC-10514,Chinchiná,Estudiantil,Yoga y Pilates,9,45.0,55000.0,Vencida
+SOC-10515,Medellín Poblado,Platino,Crossfit,10,,0.0,Activa
+SOC-10516,Chinchiná,VIP Total,Funcional,10,45.0,25000.0,Activa
+SOC-10517,Manizales Centro,Platino,Spinning,25,90.0,25000.0,Activa
+SOC-10518,Medellín Poblado,Básico,Funcional,12,60.0,95000.0,Activa
+SOC-10519,Pereira Circunvalar,VIP Total,Funcional,4,45.0,55000.0,Activa
+SOC-10520,Pereira Circunvalar,Platino,Musculación,1,60.0,25000.0,Congelada
+SOC-10521,Chinchiná,Estudiantil,Crossfit,9,35.0,0.0,Activa
+SOC-10522,Pereira Circunvalar,Platino,Spinning,15,45.0,25000.0,Activa
+SOC-10523,Manizales Centro,Platino,Yoga y Pilates,24,75.0,,Activa
+SOC-10524,Pereira Circunvalar,Platino,Funcional,1,90.0,25000.0,Activa
+SOC-10525,Medellín Poblado,Básico,Crossfit,3,90.0,55000.0,Activa
+SOC-10526,Armenia Norte,Básico,Funcional,15,60.0,95000.0,Activa
+SOC-10527,Chinchiná,Estudiantil,Funcional,19,60.0,0.0,Activa
+SOC-10528,Pereira Circunvalar,Básico,Funcional,8,45.0,25000.0,Activa
+SOC-10529,Armenia Norte,Platino,Musculación,21,90.0,55000.0,Activa
+SOC-10530,Medellín Poblado,Platino,Musculación,19,75.0,0.0,Activa
+SOC-10531,Pereira Circunvalar,Básico,Spinning,17,75.0,25000.0,Activa
+SOC-10532,Manizales Centro,Estudiantil,Crossfit,25,90.0,0.0,Activa
+SOC-10533,Armenia Norte,Platino,Musculación,2,75.0,140000.0,Activa
+SOC-10534,Armenia Norte,VIP Total,Funcional,3,45.0,55000.0,Vencida
+SOC-10535,Armenia Norte,Platino,Crossfit,19,60.0,0.0,Activa
+SOC-10536,Manizales Centro,VIP Total,Musculación,17,45.0,55000.0,Activa
+SOC-10537,Armenia Norte,Platino,Yoga y Pilates,2,45.0,220000.0,Activa
+SOC-10538,Chinchiná,VIP Total,Musculación,5,45.0,25000.0,Activa
+SOC-10539,Armenia Norte,Básico,Funcional,1,60.0,140000.0,Activa
+SOC-10540,Manizales Centro,Básico,Crossfit,3,35.0,140000.0,Activa
+SOC-10541,Chinchiná,Estudiantil,Musculación,28,75.0,95000.0,Congelada
+SOC-10542,Medellín Poblado,Platino,Crossfit,28,60.0,0.0,Activa
+SOC-10543,Armenia Norte,VIP Total,Funcional,2,75.0,0.0,Activa
+SOC-10544,Armenia Norte,Platino,Funcional,12,75.0,55000.0,Activa
+SOC-10545,Pereira Circunvalar,Platino,Musculación,21,60.0,55000.0,Activa
+SOC-10546,Manizales Centro,Básico,Spinning,2,60.0,140000.0,Vencida
+SOC-10547,Chinchiná,Estudiantil,Funcional,1,60.0,55000.0,Congelada
+SOC-10548,Manizales Centro,Estudiantil,Spinning,17,,95000.0,Activa
+SOC-10549,Medellín Poblado,Básico,Yoga y Pilates,2,75.0,25000.0,Activa
+SOC-10550,Pereira Circunvalar,Básico,Musculación,1,75.0,55000.0,Activa
+SOC-10551,Pereira Circunvalar,Básico,Musculación,2,60.0,95000.0,Vencida
+SOC-10552,Pereira Circunvalar,Platino,Crossfit,19,45.0,55000.0,Activa
+SOC-10553,Manizales Centro,VIP Total,Crossfit,19,45.0,0.0,Activa
+SOC-10554,Armenia Norte,Básico,Yoga y Pilates,5,45.0,220000.0,Activa
+SOC-10555,Medellín Poblado,Platino,Crossfit,25,45.0,55000.0,Activa
+SOC-10556,Manizales Centro,Básico,Spinning,21,90.0,95000.0,Congelada
+SOC-10557,Medellín Poblado,Platino,Yoga y Pilates,21,45.0,0.0,Activa
+SOC-10558,Armenia Norte,Platino,Musculación,15,35.0,0.0,Activa
+SOC-10559,Chinchiná,Platino,Musculación,5,60.0,25000.0,Activa
+SOC-10560,Pereira Circunvalar,VIP Total,Spinning,13,110.0,0.0,Congelada
+SOC-10561,Pereira Circunvalar,Básico,Crossfit,5,60.0,0.0,Congelada
+SOC-10562,Manizales Centro,Estudiantil,Yoga y Pilates,20,45.0,140000.0,Activa
+SOC-10563,Pereira Circunvalar,Platino,Funcional,11,75.0,0.0,Activa
+SOC-10564,Armenia Norte,Platino,Yoga y Pilates,8,45.0,0.0,Activa
+SOC-10565,Manizales Centro,Básico,Crossfit,11,35.0,,Activa
+SOC-10566,Medellín Poblado,Platino,Funcional,11,45.0,55000.0,Congelada
+SOC-10567,Chinchiná,VIP Total,Spinning,27,45.0,25000.0,Activa
+SOC-10568,Manizales Centro,Estudiantil,Spinning,21,60.0,55000.0,Activa
+SOC-10569,Pereira Circunvalar,Básico,Spinning,8,90.0,25000.0,Activa
+SOC-10570,Medellín Poblado,VIP Total,Musculación,1,45.0,0.0,Activa
+SOC-10571,Chinchiná,Platino,Yoga y Pilates,12,,0.0,Vencida
+SOC-10572,Medellín Poblado,Básico,Spinning,18,45.0,25000.0,Activa
+SOC-10573,Chinchiná,VIP Total,Spinning,5,60.0,0.0,Activa
+SOC-10574,Armenia Norte,Estudiantil,Yoga y Pilates,18,110.0,140000.0,Activa
+SOC-10575,Pereira Circunvalar,Básico,Crossfit,14,35.0,0.0,Activa
+SOC-10576,Pereira Circunvalar,Básico,Musculación,22,60.0,140000.0,Activa
+SOC-10577,Pereira Circunvalar,Platino,Crossfit,1,60.0,0.0,Congelada
+SOC-10578,Pereira Circunvalar,Estudiantil,Spinning,22,45.0,25000.0,Activa
+SOC-10579,Medellín Poblado,VIP Total,Funcional,6,35.0,140000.0,Activa
+SOC-10580,Chinchiná,VIP Total,Yoga y Pilates,17,45.0,140000.0,Congelada
+SOC-10581,Manizales Centro,Estudiantil,Crossfit,7,60.0,55000.0,Vencida
+SOC-10582,Manizales Centro,Básico,Spinning,12,110.0,55000.0,Activa
+SOC-10583,Chinchiná,Estudiantil,Musculación,10,75.0,95000.0,Activa
+SOC-10584,Chinchiná,Platino,Spinning,2,45.0,25000.0,Activa
+SOC-10585,Armenia Norte,Platino,Spinning,1,75.0,0.0,Activa
+SOC-10586,Pereira Circunvalar,VIP Total,Spinning,2,60.0,25000.0,Activa
+SOC-10587,Manizales Centro,Platino,Spinning,17,110.0,140000.0,Activa
+SOC-10588,Pereira Circunvalar,Platino,Crossfit,2,60.0,,Activa
+SOC-10589,Pereira Circunvalar,Estudiantil,Funcional,10,45.0,,Activa
+SOC-10590,Armenia Norte,VIP Total,Crossfit,21,45.0,140000.0,Activa
+SOC-10591,Pereira Circunvalar,Platino,Yoga y Pilates,28,60.0,0.0,Activa
+SOC-10592,Armenia Norte,Básico,Yoga y Pilates,4,60.0,55000.0,Activa
+SOC-10593,Medellín Poblado,Básico,Yoga y Pilates,27,60.0,95000.0,Activa
+SOC-10594,Manizales Centro,Platino,Crossfit,21,60.0,140000.0,Activa
+SOC-10595,Chinchiná,Básico,Musculación,24,45.0,0.0,Activa
+SOC-10596,Medellín Poblado,Platino,Spinning,25,45.0,55000.0,Activa
+SOC-10597,Manizales Centro,Platino,Yoga y Pilates,14,60.0,25000.0,Activa
+SOC-10598,Chinchiná,Estudiantil,Crossfit,5,60.0,0.0,Activa
+SOC-10599,Chinchiná,Básico,Musculación,9,45.0,220000.0,Congelada
+SOC-10600,Manizales Centro,Platino,Yoga y Pilates,1,45.0,0.0,Activa
+SOC-10601,Pereira Circunvalar,Platino,Funcional,13,75.0,0.0,Activa
+SOC-10602,Armenia Norte,Básico,Musculación,27,45.0,0.0,Vencida
+SOC-10603,Manizales Centro,Platino,Crossfit,14,45.0,55000.0,Congelada
+SOC-10604,Chinchiná,VIP Total,Yoga y Pilates,25,60.0,25000.0,Activa
+SOC-10605,Manizales Centro,Estudiantil,Musculación,25,75.0,0.0,Activa
+SOC-10606,Medellín Poblado,Básico,Spinning,19,45.0,,Activa
+SOC-10607,Chinchiná,Básico,Crossfit,18,45.0,55000.0,Activa
+SOC-10608,Chinchiná,Estudiantil,Spinning,23,60.0,55000.0,Congelada
+SOC-10609,Chinchiná,Platino,Funcional,13,60.0,25000.0,Activa
+SOC-10610,Chinchiná,Platino,Spinning,8,90.0,95000.0,Activa
+SOC-10611,Pereira Circunvalar,Platino,Crossfit,6,60.0,55000.0,Congelada
+SOC-10612,Chinchiná,Básico,Musculación,3,60.0,25000.0,Activa
+SOC-10613,Armenia Norte,Estudiantil,Yoga y Pilates,10,60.0,95000.0,Vencida
+SOC-10614,Pereira Circunvalar,Básico,Musculación,24,60.0,140000.0,Vencida
+SOC-10615,Armenia Norte,VIP Total,Funcional,12,90.0,,Activa
+SOC-10616,Medellín Poblado,Platino,Musculación,23,90.0,,Congelada
+SOC-10617,Medellín Poblado,Básico,Musculación,7,45.0,0.0,Activa
+SOC-10618,Medellín Poblado,Estudiantil,Musculación,16,60.0,95000.0,Activa
+SOC-10619,Armenia Norte,Platino,Musculación,6,60.0,55000.0,Activa
+SOC-10620,Manizales Centro,Básico,Musculación,5,45.0,0.0,Activa
+SOC-10621,Medellín Poblado,VIP Total,Crossfit,17,75.0,0.0,Activa
+SOC-10622,Armenia Norte,Básico,Spinning,27,75.0,0.0,Activa
+SOC-10623,Chinchiná,Básico,Funcional,17,60.0,140000.0,Activa
+SOC-10624,Armenia Norte,Platino,Crossfit,28,45.0,95000.0,Activa
+SOC-10625,Manizales Centro,VIP Total,Musculación,12,75.0,0.0,Congelada
+SOC-10626,Pereira Circunvalar,Platino,Crossfit,13,60.0,0.0,Activa
+SOC-10627,Medellín Poblado,VIP Total,Spinning,6,45.0,95000.0,Activa
+SOC-10628,Medellín Poblado,Platino,Spinning,1,90.0,0.0,Vencida
+SOC-10629,Pereira Circunvalar,Platino,Crossfit,10,60.0,55000.0,Activa
+SOC-10630,Chinchiná,Básico,Funcional,24,75.0,55000.0,Activa
+SOC-10631,Medellín Poblado,Básico,Yoga y Pilates,6,110.0,55000.0,Vencida
+SOC-10632,Chinchiná,Platino,Funcional,16,60.0,25000.0,Activa
+SOC-10633,Armenia Norte,Platino,Funcional,2,45.0,25000.0,Activa
+SOC-10634,Manizales Centro,Platino,Funcional,27,90.0,55000.0,Vencida
+SOC-10635,Chinchiná,Estudiantil,Musculación,17,60.0,220000.0,Activa
+SOC-10636,Medellín Poblado,Básico,Crossfit,10,75.0,220000.0,Activa
+SOC-10637,Chinchiná,Platino,Spinning,21,45.0,25000.0,Activa
+SOC-10638,Medellín Poblado,VIP Total,Funcional,17,75.0,95000.0,Activa
+SOC-10639,Armenia Norte,Platino,Yoga y Pilates,10,45.0,0.0,Vencida
+SOC-10640,Chinchiná,Básico,Spinning,4,60.0,25000.0,Activa
+SOC-10641,Chinchiná,Básico,Spinning,16,75.0,140000.0,Activa
+SOC-10642,Chinchiná,Estudiantil,Musculación,10,90.0,25000.0,Activa
+SOC-10643,Chinchiná,Estudiantil,Spinning,7,45.0,95000.0,Activa
+SOC-10644,Pereira Circunvalar,Básico,Spinning,25,45.0,0.0,Activa
+SOC-10645,Pereira Circunvalar,Platino,Spinning,6,75.0,95000.0,Activa
+SOC-10646,Medellín Poblado,Básico,Funcional,19,60.0,140000.0,Activa
+SOC-10647,Medellín Poblado,Platino,Yoga y Pilates,5,60.0,95000.0,Vencida
+SOC-10648,Medellín Poblado,Estudiantil,Funcional,16,45.0,95000.0,Activa
+SOC-10649,Manizales Centro,Platino,Spinning,5,60.0,55000.0,Vencida
+SOC-10650,Pereira Circunvalar,Básico,Crossfit,24,,,Vencida
+SOC-10651,Medellín Poblado,Platino,Musculación,5,75.0,0.0,Activa
+SOC-10652,Pereira Circunvalar,Platino,Musculación,8,75.0,0.0,Activa
+SOC-10653,Pereira Circunvalar,Básico,Funcional,21,45.0,140000.0,Activa
+SOC-10654,Manizales Centro,VIP Total,Crossfit,22,60.0,25000.0,Activa
+SOC-10655,Armenia Norte,Estudiantil,Funcional,3,60.0,0.0,Congelada
+SOC-10656,Medellín Poblado,Platino,Spinning,12,35.0,95000.0,Activa
+SOC-10657,Manizales Centro,Estudiantil,Spinning,10,45.0,140000.0,Activa
+SOC-10658,Chinchiná,Platino,Yoga y Pilates,14,,95000.0,Activa
+SOC-10659,Armenia Norte,VIP Total,Funcional,20,75.0,0.0,Activa
+SOC-10660,Medellín Poblado,Básico,Spinning,14,35.0,0.0,Activa
+SOC-10661,Armenia Norte,Básico,Yoga y Pilates,17,60.0,25000.0,Congelada
+SOC-10662,Chinchiná,Platino,Spinning,20,60.0,55000.0,Vencida
+SOC-10663,Chinchiná,Estudiantil,Spinning,19,45.0,0.0,Vencida
+SOC-10664,Pereira Circunvalar,Platino,Musculación,12,60.0,,Activa
+SOC-10665,Armenia Norte,Platino,Yoga y Pilates,8,75.0,0.0,Activa
+SOC-10666,Manizales Centro,Básico,Spinning,21,75.0,95000.0,Vencida
+SOC-10667,Chinchiná,Platino,Crossfit,11,75.0,0.0,Activa
+SOC-10668,Pereira Circunvalar,VIP Total,Funcional,4,45.0,55000.0,Activa
+SOC-10669,Armenia Norte,Básico,Crossfit,25,45.0,55000.0,Activa
+SOC-10670,Armenia Norte,Platino,Funcional,7,60.0,25000.0,Congelada
+SOC-10671,Pereira Circunvalar,Platino,Musculación,26,45.0,0.0,Activa
+SOC-10672,Pereira Circunvalar,Básico,Crossfit,7,60.0,140000.0,Activa
+SOC-10673,Medellín Poblado,VIP Total,Musculación,21,60.0,55000.0,Activa
+SOC-10674,Pereira Circunvalar,Platino,Spinning,4,60.0,0.0,Vencida
+SOC-10675,Armenia Norte,Básico,Funcional,9,75.0,55000.0,Activa
+SOC-10676,Chinchiná,Platino,Yoga y Pilates,5,45.0,55000.0,Activa
+SOC-10677,Pereira Circunvalar,Básico,Spinning,15,90.0,0.0,Activa
+SOC-10678,Chinchiná,Básico,Yoga y Pilates,24,35.0,0.0,Activa
+SOC-10679,Chinchiná,Básico,Crossfit,9,35.0,140000.0,Activa
+SOC-10680,Medellín Poblado,Platino,Funcional,20,60.0,25000.0,Activa
+SOC-10681,Armenia Norte,VIP Total,Crossfit,11,90.0,0.0,Activa
+SOC-10682,Medellín Poblado,Básico,Funcional,5,45.0,55000.0,Activa
+SOC-10683,Armenia Norte,Básico,Yoga y Pilates,12,75.0,55000.0,Activa
+SOC-10684,Manizales Centro,VIP Total,Musculación,3,60.0,0.0,Congelada
+SOC-10685,Armenia Norte,Estudiantil,Musculación,20,75.0,140000.0,Vencida
+SOC-10686,Manizales Centro,Estudiantil,Spinning,2,90.0,0.0,Activa
+SOC-10687,Manizales Centro,Platino,Yoga y Pilates,27,60.0,,Vencida
+SOC-10688,Medellín Poblado,VIP Total,Spinning,1,75.0,25000.0,Activa
+SOC-10689,Armenia Norte,Básico,Yoga y Pilates,21,75.0,0.0,Congelada
+SOC-10690,Medellín Poblado,Básico,Crossfit,28,60.0,95000.0,Congelada
+SOC-10691,Medellín Poblado,VIP Total,Crossfit,1,45.0,55000.0,Activa
+SOC-10692,Manizales Centro,VIP Total,Yoga y Pilates,19,90.0,55000.0,Activa
+SOC-10693,Armenia Norte,Platino,Crossfit,1,75.0,0.0,Activa
+SOC-10694,Medellín Poblado,Básico,Spinning,27,45.0,,Activa
+SOC-10695,Chinchiná,Básico,Funcional,13,35.0,,Activa
+SOC-10696,Medellín Poblado,Básico,Yoga y Pilates,21,45.0,95000.0,Activa
+SOC-10697,Armenia Norte,Básico,Spinning,24,,55000.0,Congelada
+SOC-10698,Pereira Circunvalar,Platino,Spinning,14,75.0,95000.0,Activa
+SOC-10699,Medellín Poblado,Básico,Crossfit,10,45.0,0.0,Activa
+SOC-10700,Manizales Centro,Básico,Spinning,26,35.0,,Activa
+SOC-10701,Chinchiná,Platino,Spinning,24,110.0,25000.0,Activa
+SOC-10702,Pereira Circunvalar,Básico,Funcional,19,75.0,55000.0,Activa
+SOC-10703,Pereira Circunvalar,VIP Total,Funcional,16,75.0,0.0,Congelada
+SOC-10704,Medellín Poblado,Estudiantil,Musculación,6,60.0,0.0,Congelada
+SOC-10705,Pereira Circunvalar,VIP Total,Spinning,12,75.0,0.0,Activa
+SOC-10706,Armenia Norte,Estudiantil,Yoga y Pilates,2,60.0,25000.0,Vencida
+SOC-10707,Chinchiná,Platino,Spinning,13,75.0,0.0,Activa
+SOC-10708,Pereira Circunvalar,Platino,Spinning,20,75.0,0.0,Activa
+SOC-10709,Chinchiná,Básico,Musculación,3,35.0,220000.0,Activa
+SOC-10710,Medellín Poblado,Estudiantil,Yoga y Pilates,6,35.0,55000.0,Activa
+SOC-10711,Medellín Poblado,Estudiantil,Yoga y Pilates,22,,0.0,Congelada
+SOC-10712,Manizales Centro,VIP Total,Crossfit,25,45.0,0.0,Vencida
+SOC-10713,Medellín Poblado,Básico,Musculación,13,75.0,,Activa
+SOC-10714,Armenia Norte,Estudiantil,Musculación,22,45.0,95000.0,Activa
+SOC-10715,Pereira Circunvalar,Básico,Yoga y Pilates,21,60.0,140000.0,Vencida
+SOC-10716,Medellín Poblado,Básico,Spinning,23,60.0,55000.0,Activa
+SOC-10717,Medellín Poblado,VIP Total,Spinning,22,110.0,140000.0,Activa
+SOC-10718,Chinchiná,VIP Total,Yoga y Pilates,10,60.0,55000.0,Activa
+SOC-10719,Chinchiná,Básico,Crossfit,4,75.0,140000.0,Activa
+SOC-10720,Pereira Circunvalar,Básico,Yoga y Pilates,12,45.0,55000.0,Congelada
+SOC-10721,Manizales Centro,Estudiantil,Funcional,7,60.0,25000.0,Activa
+SOC-10722,Armenia Norte,Platino,Spinning,14,,95000.0,Activa
+SOC-10723,Manizales Centro,VIP Total,Crossfit,4,60.0,25000.0,Activa
+SOC-10724,Armenia Norte,Platino,Crossfit,20,75.0,95000.0,Vencida
+SOC-10725,Medellín Poblado,Básico,Yoga y Pilates,24,60.0,25000.0,Activa
+SOC-10726,Manizales Centro,Estudiantil,Spinning,15,,220000.0,Congelada
+SOC-10727,Chinchiná,Platino,Crossfit,25,45.0,140000.0,Activa
+SOC-10728,Medellín Poblado,Platino,Musculación,12,45.0,55000.0,Activa
+SOC-10729,Medellín Poblado,Básico,Yoga y Pilates,24,60.0,95000.0,Vencida
+SOC-10730,Manizales Centro,Estudiantil,Spinning,24,45.0,95000.0,Congelada
+SOC-10731,Armenia Norte,VIP Total,Musculación,20,60.0,25000.0,Activa
+SOC-10732,Chinchiná,Estudiantil,Funcional,20,,0.0,Activa
+SOC-10733,Medellín Poblado,Platino,Crossfit,3,60.0,,Activa
+SOC-10734,Chinchiná,Platino,Funcional,28,60.0,55000.0,Activa
+SOC-10735,Manizales Centro,Básico,Spinning,2,45.0,25000.0,Activa
+SOC-10736,Medellín Poblado,Básico,Musculación,17,90.0,0.0,Activa
+SOC-10737,Armenia Norte,Básico,Yoga y Pilates,9,45.0,0.0,Activa
+SOC-10738,Medellín Poblado,Básico,Musculación,4,60.0,25000.0,Congelada
+SOC-10739,Chinchiná,Platino,Crossfit,5,,55000.0,Activa
+SOC-10740,Armenia Norte,VIP Total,Yoga y Pilates,12,35.0,55000.0,Activa
+SOC-10741,Chinchiná,Platino,Musculación,26,45.0,25000.0,Activa
+SOC-10742,Armenia Norte,Platino,Musculación,23,,95000.0,Activa
+SOC-10743,Manizales Centro,Estudiantil,Crossfit,13,60.0,55000.0,Activa
+SOC-10744,Medellín Poblado,Básico,Yoga y Pilates,11,60.0,140000.0,Congelada
+SOC-10745,Medellín Poblado,Estudiantil,Spinning,13,60.0,25000.0,Activa
+SOC-10746,Manizales Centro,Básico,Musculación,24,110.0,25000.0,Activa
+SOC-10747,Armenia Norte,Estudiantil,Musculación,5,60.0,25000.0,Activa
+SOC-10748,Armenia Norte,Platino,Funcional,24,45.0,0.0,Activa
+SOC-10749,Manizales Centro,Estudiantil,Funcional,23,75.0,0.0,Activa
+SOC-10750,Manizales Centro,Platino,Crossfit,6,60.0,55000.0,Activa
+SOC-10751,Manizales Centro,Platino,Yoga y Pilates,21,75.0,,Vencida
+SOC-10752,Manizales Centro,Básico,Crossfit,5,60.0,25000.0,Activa
+SOC-10753,Pereira Circunvalar,Estudiantil,Yoga y Pilates,10,45.0,95000.0,Activa
+SOC-10754,Chinchiná,Básico,Crossfit,18,75.0,95000.0,Activa
+SOC-10755,Medellín Poblado,VIP Total,Spinning,22,45.0,25000.0,Activa
+SOC-10756,Manizales Centro,Básico,Yoga y Pilates,4,75.0,0.0,Activa
+SOC-10757,Medellín Poblado,VIP Total,Spinning,16,60.0,55000.0,Activa
+SOC-10758,Pereira Circunvalar,Básico,Crossfit,27,35.0,95000.0,Congelada
+SOC-10759,Armenia Norte,Estudiantil,Spinning,11,,0.0,Activa
+SOC-10760,Pereira Circunvalar,Platino,Crossfit,28,60.0,140000.0,Activa
+SOC-10761,Medellín Poblado,VIP Total,Funcional,24,45.0,220000.0,Vencida
+SOC-10762,Manizales Centro,Platino,Funcional,10,90.0,95000.0,Vencida
+SOC-10763,Medellín Poblado,Platino,Musculación,18,45.0,0.0,Activa
+SOC-10764,Armenia Norte,Básico,Funcional,16,90.0,0.0,Activa
+SOC-10765,Armenia Norte,Estudiantil,Musculación,24,,,Activa
+SOC-10766,Medellín Poblado,Básico,Musculación,19,60.0,55000.0,Activa
+SOC-10767,Chinchiná,Platino,Yoga y Pilates,9,90.0,55000.0,Congelada
+SOC-10768,Pereira Circunvalar,Platino,Spinning,4,75.0,0.0,Activa
+SOC-10769,Chinchiná,Básico,Funcional,11,60.0,55000.0,Activa
+SOC-10770,Chinchiná,Básico,Funcional,13,60.0,55000.0,Activa
+SOC-10771,Chinchiná,Básico,Funcional,11,60.0,140000.0,Activa
+SOC-10772,Armenia Norte,Estudiantil,Yoga y Pilates,15,45.0,0.0,Activa
+SOC-10773,Armenia Norte,Básico,Spinning,5,60.0,55000.0,Activa
+SOC-10774,Armenia Norte,Platino,Spinning,10,75.0,55000.0,Congelada
+SOC-10775,Chinchiná,Platino,Funcional,25,45.0,,Activa
+SOC-10776,Pereira Circunvalar,VIP Total,Musculación,6,60.0,0.0,Activa
+SOC-10777,Medellín Poblado,VIP Total,Funcional,1,45.0,55000.0,Activa
+SOC-10778,Manizales Centro,Estudiantil,Crossfit,8,,25000.0,Activa
+SOC-10779,Pereira Circunvalar,Platino,Crossfit,8,35.0,0.0,Activa
+SOC-10780,Manizales Centro,Básico,Musculación,10,60.0,55000.0,Activa
+SOC-10781,Manizales Centro,Platino,Crossfit,3,60.0,0.0,Activa
+SOC-10782,Armenia Norte,Básico,Crossfit,11,45.0,220000.0,Activa
+SOC-10783,Manizales Centro,Platino,Funcional,15,35.0,0.0,Activa
+SOC-10784,Chinchiná,Básico,Musculación,8,90.0,25000.0,Activa
+SOC-10785,Chinchiná,Básico,Funcional,6,35.0,0.0,Activa
+SOC-10786,Pereira Circunvalar,Estudiantil,Yoga y Pilates,10,35.0,25000.0,Activa
+SOC-10787,Chinchiná,Básico,Musculación,18,35.0,95000.0,Vencida
+SOC-10788,Chinchiná,VIP Total,Yoga y Pilates,22,90.0,95000.0,Vencida
+SOC-10789,Pereira Circunvalar,Básico,Yoga y Pilates,24,75.0,25000.0,Vencida
+SOC-10790,Medellín Poblado,VIP Total,Musculación,16,75.0,25000.0,Vencida
+SOC-10791,Armenia Norte,Básico,Yoga y Pilates,24,45.0,0.0,Congelada
+SOC-10792,Chinchiná,Estudiantil,Musculación,2,110.0,25000.0,Activa
+SOC-10793,Chinchiná,Platino,Yoga y Pilates,16,60.0,55000.0,Activa
+SOC-10794,Manizales Centro,VIP Total,Spinning,4,90.0,25000.0,Activa
+SOC-10795,Chinchiná,VIP Total,Spinning,17,60.0,0.0,Activa
+SOC-10796,Armenia Norte,Estudiantil,Funcional,5,60.0,0.0,Activa
+SOC-10797,Armenia Norte,Platino,Musculación,12,90.0,95000.0,Activa
+SOC-10798,Chinchiná,Básico,Spinning,25,75.0,25000.0,Activa
+SOC-10799,Pereira Circunvalar,Platino,Funcional,24,45.0,55000.0,Activa
+SOC-10800,Armenia Norte,Platino,Yoga y Pilates,19,45.0,140000.0,Activa
+SOC-10801,Medellín Poblado,Platino,Yoga y Pilates,19,110.0,25000.0,Activa
+SOC-10802,Manizales Centro,Platino,Funcional,26,45.0,55000.0,Congelada
+SOC-10803,Chinchiná,Básico,Yoga y Pilates,6,35.0,25000.0,Congelada
+SOC-10804,Manizales Centro,Básico,Funcional,23,75.0,0.0,Activa
+SOC-10805,Chinchiná,Estudiantil,Crossfit,24,90.0,140000.0,Activa
+SOC-10806,Armenia Norte,Básico,Spinning,28,60.0,55000.0,Activa
+SOC-10807,Medellín Poblado,Básico,Funcional,27,60.0,220000.0,Activa
+SOC-10808,Manizales Centro,Básico,Crossfit,25,45.0,55000.0,Congelada
+SOC-10809,Medellín Poblado,Básico,Musculación,7,45.0,95000.0,Vencida
+SOC-10810,Armenia Norte,Estudiantil,Musculación,3,60.0,0.0,Activa
+SOC-10811,Chinchiná,Estudiantil,Yoga y Pilates,12,45.0,0.0,Activa
+SOC-10812,Manizales Centro,Platino,Yoga y Pilates,16,60.0,0.0,Vencida
+SOC-10813,Pereira Circunvalar,Estudiantil,Spinning,7,35.0,,Activa
+SOC-10814,Manizales Centro,Platino,Spinning,6,60.0,140000.0,Vencida
+SOC-10815,Medellín Poblado,Estudiantil,Yoga y Pilates,7,75.0,55000.0,Activa
+SOC-10816,Pereira Circunvalar,Básico,Musculación,21,110.0,25000.0,Activa
+SOC-10817,Medellín Poblado,VIP Total,Musculación,15,60.0,25000.0,Activa
+SOC-10818,Chinchiná,Platino,Musculación,17,45.0,25000.0,Activa
+SOC-10819,Armenia Norte,Platino,Yoga y Pilates,2,75.0,55000.0,Activa
+SOC-10820,Chinchiná,Platino,Musculación,24,,0.0,Activa
+SOC-10821,Pereira Circunvalar,Básico,Crossfit,19,60.0,0.0,Activa
+SOC-10822,Armenia Norte,Estudiantil,Yoga y Pilates,4,60.0,220000.0,Activa
+SOC-10823,Armenia Norte,VIP Total,Crossfit,24,60.0,0.0,Vencida
+SOC-10824,Medellín Poblado,VIP Total,Spinning,20,45.0,25000.0,Congelada
+SOC-10825,Chinchiná,Básico,Crossfit,18,60.0,95000.0,Vencida
+SOC-10826,Chinchiná,Estudiantil,Crossfit,11,60.0,25000.0,Activa
+SOC-10827,Pereira Circunvalar,Básico,Musculación,20,60.0,55000.0,Activa
+SOC-10828,Manizales Centro,VIP Total,Musculación,2,60.0,25000.0,Vencida
+SOC-10829,Armenia Norte,Básico,Yoga y Pilates,8,60.0,0.0,Activa
+SOC-10830,Chinchiná,Básico,Musculación,28,45.0,55000.0,Activa
+SOC-10831,Pereira Circunvalar,Estudiantil,Musculación,27,45.0,0.0,Activa
+SOC-10832,Manizales Centro,Platino,Musculación,4,,0.0,Activa
+SOC-10833,Chinchiná,Básico,Crossfit,19,60.0,220000.0,Vencida
+SOC-10834,Chinchiná,Básico,Spinning,18,,0.0,Activa
+SOC-10835,Manizales Centro,Platino,Funcional,15,35.0,25000.0,Activa
+SOC-10836,Medellín Poblado,Platino,Funcional,21,75.0,,Activa
+SOC-10837,Manizales Centro,Básico,Spinning,4,,0.0,Activa
+SOC-10838,Medellín Poblado,Básico,Spinning,5,60.0,0.0,Activa
+SOC-10839,Pereira Circunvalar,Platino,Yoga y Pilates,14,45.0,25000.0,Activa
+SOC-10840,Chinchiná,Platino,Musculación,20,45.0,0.0,Activa
+SOC-10841,Pereira Circunvalar,Estudiantil,Funcional,19,90.0,25000.0,Activa
+SOC-10842,Pereira Circunvalar,Platino,Funcional,16,35.0,0.0,Activa
+SOC-10843,Armenia Norte,Platino,Yoga y Pilates,1,75.0,140000.0,Activa
+SOC-10844,Armenia Norte,Básico,Musculación,21,110.0,140000.0,Activa
+SOC-10845,Medellín Poblado,VIP Total,Crossfit,18,45.0,0.0,Congelada
+SOC-10846,Medellín Poblado,Básico,Crossfit,11,75.0,140000.0,Activa
+SOC-10847,Medellín Poblado,Estudiantil,Yoga y Pilates,20,,55000.0,Activa
+SOC-10848,Pereira Circunvalar,Estudiantil,Yoga y Pilates,15,60.0,55000.0,Activa
+SOC-10849,Manizales Centro,Básico,Crossfit,6,60.0,0.0,Activa
+SOC-10850,Manizales Centro,VIP Total,Spinning,8,45.0,0.0,Activa
+SOC-10851,Medellín Poblado,Platino,Musculación,27,35.0,220000.0,Activa
+SOC-10852,Pereira Circunvalar,Platino,Crossfit,3,45.0,220000.0,Activa
+SOC-10853,Chinchiná,Estudiantil,Funcional,19,35.0,55000.0,Activa
+SOC-10854,Armenia Norte,Platino,Crossfit,11,75.0,95000.0,Activa
+SOC-10855,Chinchiná,Estudiantil,Yoga y Pilates,24,60.0,0.0,Activa
+SOC-10856,Manizales Centro,Básico,Funcional,16,60.0,95000.0,Activa
+SOC-10857,Medellín Poblado,Básico,Musculación,20,45.0,25000.0,Congelada
+SOC-10858,Pereira Circunvalar,Básico,Crossfit,3,90.0,140000.0,Activa
+SOC-10859,Medellín Poblado,Estudiantil,Crossfit,14,35.0,0.0,Activa
+SOC-10860,Manizales Centro,Platino,Funcional,14,60.0,55000.0,Activa
+SOC-10861,Pereira Circunvalar,Básico,Yoga y Pilates,14,45.0,55000.0,Vencida
+SOC-10862,Manizales Centro,Platino,Spinning,16,45.0,0.0,Activa
+SOC-10863,Pereira Circunvalar,Platino,Yoga y Pilates,15,35.0,0.0,Activa
+SOC-10864,Manizales Centro,VIP Total,Spinning,9,60.0,,Vencida
+SOC-10865,Manizales Centro,Básico,Funcional,8,60.0,0.0,Congelada
+SOC-10866,Armenia Norte,Platino,Spinning,8,35.0,55000.0,Activa
+SOC-10867,Pereira Circunvalar,VIP Total,Crossfit,15,45.0,0.0,Activa
+SOC-10868,Medellín Poblado,Básico,Yoga y Pilates,18,60.0,220000.0,Activa
+SOC-10869,Chinchiná,Básico,Funcional,1,90.0,55000.0,Activa
+SOC-10870,Pereira Circunvalar,Platino,Musculación,13,45.0,25000.0,Congelada
+SOC-10871,Pereira Circunvalar,VIP Total,Spinning,25,75.0,95000.0,Activa
+SOC-10872,Armenia Norte,Platino,Yoga y Pilates,1,35.0,55000.0,Activa
+SOC-10873,Armenia Norte,Básico,Spinning,20,45.0,95000.0,Activa
+SOC-10874,Pereira Circunvalar,Básico,Musculación,6,60.0,25000.0,Activa
+SOC-10875,Medellín Poblado,Estudiantil,Musculación,1,,0.0,Activa
+SOC-10876,Manizales Centro,Básico,Crossfit,18,45.0,0.0,Activa
+SOC-10877,Manizales Centro,Estudiantil,Yoga y Pilates,19,45.0,95000.0,Congelada
+SOC-10878,Pereira Circunvalar,Platino,Funcional,14,75.0,0.0,Activa
+SOC-10879,Armenia Norte,Estudiantil,Spinning,21,35.0,220000.0,Activa
+SOC-10880,Chinchiná,Básico,Spinning,8,110.0,55000.0,Activa
+SOC-10881,Pereira Circunvalar,Básico,Crossfit,1,45.0,140000.0,Activa
+SOC-10882,Medellín Poblado,Básico,Musculación,27,60.0,140000.0,Activa
+SOC-10883,Manizales Centro,Platino,Spinning,6,45.0,0.0,Activa
+SOC-10884,Chinchiná,Básico,Musculación,28,,95000.0,Activa
+SOC-10885,Armenia Norte,Básico,Musculación,8,45.0,25000.0,Congelada
+SOC-10886,Manizales Centro,VIP Total,Funcional,15,110.0,55000.0,Vencida
+SOC-10887,Chinchiná,Básico,Musculación,7,75.0,0.0,Activa
+SOC-10888,Armenia Norte,Platino,Musculación,12,75.0,0.0,Congelada
+SOC-10889,Manizales Centro,Básico,Yoga y Pilates,5,75.0,95000.0,Activa
+SOC-10890,Manizales Centro,Básico,Crossfit,2,45.0,55000.0,Activa
+SOC-10891,Medellín Poblado,Básico,Yoga y Pilates,24,60.0,55000.0,Activa
+SOC-10892,Chinchiná,Platino,Yoga y Pilates,22,45.0,140000.0,Activa
+SOC-10893,Pereira Circunvalar,Platino,Crossfit,26,35.0,95000.0,Activa
+SOC-10894,Chinchiná,Platino,Spinning,2,,95000.0,Activa
+SOC-10895,Medellín Poblado,Básico,Funcional,19,75.0,25000.0,Vencida
+SOC-10896,Pereira Circunvalar,Básico,Musculación,26,60.0,55000.0,Activa
+SOC-10897,Manizales Centro,Platino,Spinning,6,45.0,55000.0,Congelada
+SOC-10898,Chinchiná,Básico,Spinning,6,75.0,55000.0,Activa
+SOC-10899,Medellín Poblado,Estudiantil,Spinning,20,,95000.0,Vencida
+SOC-10900,Chinchiná,Platino,Musculación,18,60.0,95000.0,Activa
+SOC-10901,Medellín Poblado,Platino,Spinning,5,90.0,0.0,Activa
+SOC-10902,Manizales Centro,Básico,Funcional,22,35.0,25000.0,Activa
+SOC-10903,Manizales Centro,Estudiantil,Crossfit,21,45.0,95000.0,Vencida
+SOC-10904,Medellín Poblado,Estudiantil,Crossfit,6,75.0,140000.0,Congelada
+SOC-10905,Pereira Circunvalar,Platino,Funcional,10,45.0,95000.0,Activa
+SOC-10906,Manizales Centro,Básico,Yoga y Pilates,8,,0.0,Activa
+SOC-10907,Manizales Centro,VIP Total,Crossfit,4,45.0,0.0,Activa
+SOC-10908,Armenia Norte,Básico,Crossfit,14,60.0,25000.0,Activa
+SOC-10909,Manizales Centro,VIP Total,Yoga y Pilates,4,35.0,25000.0,Congelada
+SOC-10910,Armenia Norte,Básico,Crossfit,23,60.0,25000.0,Activa
+SOC-10911,Chinchiná,Estudiantil,Funcional,15,60.0,25000.0,Congelada
+SOC-10912,Chinchiná,Básico,Funcional,1,,55000.0,Activa
+SOC-10913,Manizales Centro,Básico,Funcional,21,45.0,55000.0,Activa
+SOC-10914,Medellín Poblado,Básico,Funcional,9,35.0,0.0,Activa
+SOC-10915,Armenia Norte,Platino,Spinning,11,60.0,0.0,Activa
+SOC-10916,Chinchiná,Platino,Yoga y Pilates,27,45.0,95000.0,Congelada
+SOC-10917,Chinchiná,Platino,Crossfit,8,45.0,0.0,Congelada
+SOC-10918,Manizales Centro,Básico,Yoga y Pilates,8,60.0,25000.0,Activa
+SOC-10919,Manizales Centro,Estudiantil,Crossfit,13,45.0,220000.0,Activa
+SOC-10920,Armenia Norte,Básico,Spinning,4,110.0,,Activa
+SOC-10921,Manizales Centro,Básico,Funcional,7,60.0,25000.0,Activa
+SOC-10922,Chinchiná,Básico,Crossfit,20,45.0,0.0,Congelada
+SOC-10923,Pereira Circunvalar,Platino,Yoga y Pilates,17,75.0,0.0,Activa
+SOC-10924,Chinchiná,Básico,Funcional,12,45.0,55000.0,Activa
+SOC-10925,Armenia Norte,Básico,Crossfit,5,60.0,0.0,Activa
+SOC-10926,Chinchiná,Básico,Yoga y Pilates,7,35.0,0.0,Activa
+SOC-10927,Chinchiná,Platino,Yoga y Pilates,20,60.0,55000.0,Congelada
+SOC-10928,Manizales Centro,Básico,Musculación,1,75.0,,Vencida
+SOC-10929,Medellín Poblado,VIP Total,Spinning,8,60.0,0.0,Congelada
+SOC-10930,Medellín Poblado,Estudiantil,Spinning,26,60.0,0.0,Activa
+SOC-10931,Armenia Norte,Básico,Yoga y Pilates,7,45.0,,Activa
+SOC-10932,Chinchiná,Básico,Funcional,20,75.0,55000.0,Activa
+SOC-10933,Manizales Centro,Platino,Musculación,4,60.0,95000.0,Activa
+SOC-10934,Chinchiná,Básico,Yoga y Pilates,15,75.0,0.0,Congelada
+SOC-10935,Armenia Norte,Estudiantil,Yoga y Pilates,11,60.0,0.0,Activa
+SOC-10936,Chinchiná,Platino,Crossfit,5,60.0,140000.0,Activa
+SOC-10937,Pereira Circunvalar,VIP Total,Spinning,13,45.0,25000.0,Activa
+SOC-10938,Manizales Centro,Básico,Crossfit,1,35.0,25000.0,Activa
+SOC-10939,Manizales Centro,Básico,Yoga y Pilates,27,75.0,140000.0,Vencida
+SOC-10940,Armenia Norte,Básico,Spinning,8,75.0,55000.0,Vencida
+SOC-10941,Manizales Centro,Estudiantil,Funcional,15,45.0,0.0,Activa
+SOC-10942,Manizales Centro,Platino,Crossfit,28,60.0,55000.0,Activa
+SOC-10943,Armenia Norte,Básico,Spinning,13,45.0,55000.0,Activa
+SOC-10944,Pereira Circunvalar,Estudiantil,Crossfit,5,60.0,55000.0,Congelada
+SOC-10945,Medellín Poblado,Estudiantil,Yoga y Pilates,26,60.0,55000.0,Activa
+SOC-10946,Chinchiná,Básico,Musculación,8,75.0,25000.0,Congelada
+SOC-10947,Chinchiná,Platino,Crossfit,22,60.0,25000.0,Activa
+SOC-10948,Pereira Circunvalar,Básico,Crossfit,5,75.0,55000.0,Activa
+SOC-10949,Armenia Norte,Estudiantil,Crossfit,26,45.0,95000.0,Activa
+SOC-10950,Pereira Circunvalar,Básico,Musculación,17,75.0,25000.0,Activa
+SOC-10951,Armenia Norte,Estudiantil,Musculación,18,75.0,25000.0,Activa
+SOC-10952,Manizales Centro,Platino,Spinning,2,60.0,0.0,Activa
+SOC-10953,Medellín Poblado,Platino,Funcional,26,60.0,55000.0,Activa
+SOC-10954,Pereira Circunvalar,Platino,Yoga y Pilates,23,60.0,95000.0,Activa
+SOC-10955,Pereira Circunvalar,Básico,Spinning,14,45.0,140000.0,Activa
+SOC-10956,Armenia Norte,Básico,Musculación,6,75.0,25000.0,Congelada
+SOC-10957,Medellín Poblado,Básico,Yoga y Pilates,6,110.0,25000.0,Congelada
+SOC-10958,Manizales Centro,Estudiantil,Yoga y Pilates,3,90.0,0.0,Congelada
+SOC-10959,Pereira Circunvalar,Básico,Funcional,14,75.0,25000.0,Vencida
+SOC-10960,Armenia Norte,Básico,Spinning,27,75.0,0.0,Activa
+SOC-10961,Manizales Centro,Platino,Spinning,24,45.0,95000.0,Activa
+SOC-10962,Medellín Poblado,Básico,Spinning,9,35.0,55000.0,Activa
+SOC-10963,Pereira Circunvalar,Básico,Musculación,3,45.0,95000.0,Vencida
+SOC-10964,Armenia Norte,Estudiantil,Spinning,23,110.0,25000.0,Activa
+SOC-10965,Medellín Poblado,Platino,Crossfit,20,45.0,,Vencida
+SOC-10966,Armenia Norte,Básico,Yoga y Pilates,2,45.0,25000.0,Vencida
+SOC-10967,Pereira Circunvalar,Básico,Musculación,25,60.0,25000.0,Activa
+SOC-10968,Manizales Centro,VIP Total,Spinning,4,45.0,25000.0,Activa
+SOC-10969,Chinchiná,VIP Total,Crossfit,25,45.0,0.0,Activa
+SOC-10970,Medellín Poblado,Básico,Yoga y Pilates,24,45.0,0.0,Activa
+SOC-10971,Pereira Circunvalar,VIP Total,Crossfit,15,60.0,95000.0,Activa
+SOC-10972,Medellín Poblado,Estudiantil,Yoga y Pilates,19,45.0,95000.0,Vencida
+SOC-10973,Manizales Centro,Básico,Yoga y Pilates,28,60.0,95000.0,Congelada
+SOC-10974,Chinchiná,Platino,Spinning,4,45.0,55000.0,Activa
+SOC-10975,Chinchiná,VIP Total,Musculación,14,60.0,140000.0,Activa
+SOC-10976,Medellín Poblado,Básico,Musculación,21,75.0,0.0,Activa
+SOC-10977,Medellín Poblado,Estudiantil,Crossfit,5,60.0,55000.0,Activa
+SOC-10978,Pereira Circunvalar,VIP Total,Funcional,15,45.0,55000.0,Activa
+SOC-10979,Armenia Norte,Platino,Spinning,11,45.0,55000.0,Activa
+SOC-10980,Medellín Poblado,Estudiantil,Spinning,22,45.0,,Activa
+SOC-10981,Chinchiná,Básico,Spinning,2,110.0,95000.0,Activa
+SOC-10982,Chinchiná,Platino,Funcional,8,60.0,25000.0,Activa
+SOC-10983,Armenia Norte,Básico,Musculación,28,45.0,140000.0,Activa
+SOC-10984,Chinchiná,VIP Total,Musculación,6,60.0,25000.0,Congelada
+SOC-10985,Manizales Centro,VIP Total,Spinning,6,45.0,55000.0,Activa
+SOC-10986,Medellín Poblado,VIP Total,Musculación,1,75.0,25000.0,Activa
+SOC-10987,Medellín Poblado,Platino,Musculación,19,90.0,0.0,Activa
+SOC-10988,Armenia Norte,Platino,Spinning,19,45.0,55000.0,Activa
+SOC-10989,Manizales Centro,Platino,Crossfit,2,60.0,0.0,Congelada
+SOC-10990,Manizales Centro,VIP Total,Musculación,13,,0.0,Activa
+SOC-10991,Pereira Circunvalar,Básico,Funcional,10,45.0,55000.0,Congelada
+SOC-10992,Pereira Circunvalar,Platino,Funcional,23,60.0,55000.0,Activa
+SOC-10993,Pereira Circunvalar,Platino,Spinning,4,60.0,55000.0,Activa
+SOC-10994,Medellín Poblado,Platino,Crossfit,21,60.0,95000.0,Activa
+SOC-10995,Medellín Poblado,Platino,Yoga y Pilates,21,45.0,0.0,Activa
+SOC-10996,Medellín Poblado,Básico,Musculación,17,75.0,0.0,Vencida
+SOC-10997,Medellín Poblado,VIP Total,Crossfit,1,,140000.0,Activa
+SOC-10998,Armenia Norte,VIP Total,Crossfit,4,75.0,0.0,Activa
+SOC-10999,Medellín Poblado,Estudiantil,Yoga y Pilates,8,75.0,25000.0,Activa
+SOC-11000,Pereira Circunvalar,Platino,Yoga y Pilates,22,45.0,55000.0,Activa
+SOC-10181,Manizales Centro,VIP Total,Funcional,10,60.0,25000.0,Activa
+SOC-10182,Armenia Norte,Estudiantil,Yoga y Pilates,17,75.0,95000.0,Activa
+SOC-10183,Armenia Norte,VIP Total,Yoga y Pilates,28,90.0,0.0,Activa
+SOC-10184,Manizales Centro,Básico,Funcional,22,60.0,220000.0,Vencida
+SOC-10185,Chinchiná,Estudiantil,Spinning,24,90.0,25000.0,Activa
+SOC-10186,Manizales Centro,Básico,Crossfit,9,45.0,25000.0,Activa
+SOC-10187,Armenia Norte,Platino,Yoga y Pilates,15,60.0,25000.0,Activa
+SOC-10188,Manizales Centro,Platino,Musculación,25,45.0,220000.0,Congelada
+SOC-10189,Medellín Poblado,Básico,Musculación,12,45.0,55000.0,Activa
+SOC-10190,Manizales Centro,Estudiantil,Crossfit,23,45.0,0.0,Activa
+SOC-10191,Chinchiná,Básico,Musculación,9,75.0,55000.0,Congelada
+SOC-10192,Armenia Norte,Platino,Funcional,7,75.0,140000.0,Activa
